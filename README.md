@@ -1,2 +1,2 @@
-# Neuro_AI_Papers
+# Neuro AI Papers 🧠💻
 Repo for neuro-AI papers.
