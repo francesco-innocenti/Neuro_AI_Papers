@@ -21,7 +21,9 @@ This repository stores papers on research at the intersection between computatio
 
 [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
 
-[Deep Learning for Cognitive Neuroscience](Engineering a Less Artificial Intelligence)
+[Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
+
+[Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
 
 [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
 
