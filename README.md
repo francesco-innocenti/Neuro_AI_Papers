@@ -65,9 +65,15 @@ This repository stores papers on research at the intersection between computatio
 
 [The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
 
+### Reinforcement learning
 
+[A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
 
+[Deep Reinforcement Learning and Its Neuroscientific Implications](http://www.sciencedirect.com/science/article/pii/S0896627320304682)
 
+[Reinforcement Learning, Fast and Slow](https://www.sciencedirect.com/science/article/pii/S1364661319300610)
+
+[The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
 
 
