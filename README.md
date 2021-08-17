@@ -1,9 +1,9 @@
 # Neuro-AI Papers 🧠💻
 Repository for papers at the intersection between computational neuroscience and machine learning, a field also known as neuro-inspired AI or simply neuro-AI. The papers are categorised under the following sections:
-* [Popular articles](##Popular articles)
-* [Deep learning](##Deep learning)
-* [Reinforcement learning](##Reinforcement learning)
-* [The Thousand Brains Theory](##The Thousand Brains Theory)
+* [Popular articles](#Popular-articles)
+* [Deep learning](#Deep-learning)
+* [Reinforcement learning](#Reinforcement-learning)
+* [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
 
 
 ## Popular articles
