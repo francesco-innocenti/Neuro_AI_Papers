@@ -45,18 +45,6 @@ Repository for papers at the intersection between computational neuroscience and
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 
-### Interpretability
-
-[Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
-
-[Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
-
-[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
-
-[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
-
-[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
-
 ### Model benchmarks
 
 [The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
@@ -68,6 +56,18 @@ Repository for papers at the intersection between computational neuroscience and
 [The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z)
 
 [The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
+
+### Interpretability
+
+[Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
+
+[Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
+
+[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
+
+[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
+
+[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
 
 ## Reinforcement learning
