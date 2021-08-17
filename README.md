@@ -65,7 +65,7 @@ This repository stores papers on research at the intersection between computatio
 
 [The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
 
-### Reinforcement learning
+## Reinforcement learning
 
 [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
 
@@ -74,6 +74,18 @@ This repository stores papers on research at the intersection between computatio
 [Reinforcement Learning, Fast and Slow](https://www.sciencedirect.com/science/article/pii/S1364661319300610)
 
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
+
+## The Thousand Brains Theory
+
+[A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
+
+[A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
+
+[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+
+[Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
+
+[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 
 
 
