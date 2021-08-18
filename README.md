@@ -45,6 +45,17 @@ Repository for papers at the intersection between computational neuroscience and
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 
+### Vision
+
+[Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
+
+[Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
+
+[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
+
+[Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
+
+
 ### Model benchmarks
 
 [The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
