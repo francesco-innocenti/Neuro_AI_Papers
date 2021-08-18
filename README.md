@@ -6,6 +6,7 @@ Repository for papers at the intersection between computational neuroscience and
   * [Vision](#Vision)
   * [Model benchmarks](#Model-benchmarks)
   * [Interpretability](#Interpretability)
+  * [Backpropagation in the brain?](#Backpropagation-in-the-brain?) 
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
 
