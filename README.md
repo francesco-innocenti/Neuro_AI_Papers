@@ -70,6 +70,13 @@ Repository for papers at the intersection between computational neuroscience and
 [Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
 
+## Backpropagation and the brain
+
+[Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
+
+[Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
+
+
 ## Reinforcement learning
 
 [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
