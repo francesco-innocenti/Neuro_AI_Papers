@@ -1,7 +1,7 @@
 # Neuro-AI Papers 🧠💻
-Repository for papers at the intersection between computational neuroscience and machine learning,
-a field also known as neuroscience-inspired artificial intelligence or neuro-AI.
-The papers are categorised under the following sections:
+This is a repository for research papers at the intersection between neuroscience and artificial intelligence -
+particularly computational neuroscience and machine learning - a field also known as neuroscience-inspired AI
+or simply neuro-AI. The papers are categorised under the following sections:
 
 * [General articles](#General-articles)
 * [Deep learning](#Deep-learning)
@@ -15,18 +15,19 @@ The papers are categorised under the following sections:
 
 If you're new to this field, there are some great high-level articles that outline the general motivation behind
 looking at the brain to build intelligent systems. See, for example,
-[The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
-by Surya Ganguli (2018); [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
-by James J. DiCarlo (2018); [Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com)
-by Brooks et al. (2012). In brief, the brain is the only proof of intelligence we have and so it's likely that
-we'll make faster progress on general, human-level AI if we try to reverse-engineer the brain.    
+[To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
+by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
+by Ganguli (2018); and Hassabis' commentary in [Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
+we'll make faster progress on general, human-level AI if we try to reverse-engineer it.   
 
 
 ## General articles
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 
-This is arguably the manifesto for neuro-AI. The authors make a strong case for ...
+This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between neuroscience and AI,
+including the origins of deep and reinforcement learning, recent attention mechanisms,
+the authors make a strong case for ...
 
 [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a?a_aid=3598aabf)
 
