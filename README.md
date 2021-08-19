@@ -1,6 +1,6 @@
 # Neuro-AI Papers 🧠💻
 Repository for papers at the intersection between computational neuroscience and machine learning, a field also known as neuroscience-inspired artificial intelligence or simply neuro-AI. The papers are categorised under the following sections:
-* [Popular articles](#Popular-articles)
+* [Popular articles](#General-articles)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
