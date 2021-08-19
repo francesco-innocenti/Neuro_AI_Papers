@@ -11,11 +11,21 @@ Repository for papers at the intersection between computational neuroscience and
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
 
 
-## Popular articles
+## General articles
+
+[Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 
 [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence) (2018) by Surya Ganguli
 
 [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/) (2018) by James J. DiCarlo
+
+[Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a?a_aid=3598aabf)
+
+[The Mutual Inspirations of Machine Learning and Neuroscience](https://www.sciencedirect.com/science/article/pii/S089662731500255X)
+
+[Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
+
+[Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com)
 
 
 ## Deep learning
