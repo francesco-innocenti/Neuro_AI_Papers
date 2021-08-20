@@ -25,9 +25,11 @@ we'll make faster progress on general, human-level AI if we try to reverse-engin
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 
-This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between neuroscience and AI,
-including the origins of deep and reinforcement learning, recent attention mechanisms,
-the authors make a strong case for ...
+This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between the two fields,
+such the origins of deep learning, reinforcement learning, and recent attention mechanisms, the authors make a strong
+case for how neuroscience can help guide and accelerate AI research. In turn, neuroscience can benefit from AI, as
+shown in RL, the success of deep learning models of the visual system, as well as the search for the biological
+analogue of backpropagation.
 
 [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a?a_aid=3598aabf)
 
