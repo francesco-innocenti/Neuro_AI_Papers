@@ -3,7 +3,7 @@ This is a repository for research papers at the intersection between neuroscienc
 particularly computational neuroscience and machine learning - a field also known as neuroscience-inspired AI
 or simply neuro-AI. The papers are categorised under the following sections:
 
-* [General articles](#General-articles)
+* [Surveys](#Surveys)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
@@ -17,25 +17,35 @@ If you're new to this field, there are some great high-level articles that outli
 looking at the brain to build intelligent systems. See, for example,
 [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
 by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
-by Ganguli (2018); and Hassabis' commentary in [Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
-we'll make faster progress on general, human-level AI if we try to reverse-engineer it.   
+by Ganguli (2018); and Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
+we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
 
-## General articles
+## Surveys
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
+by Hassabis et al. (2017)
 
 This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between the two fields,
-such the origins of deep learning, reinforcement learning, and recent attention mechanisms, the authors make a strong
-case for how neuroscience can help guide and accelerate AI research. In turn, neuroscience can benefit from AI, as
-shown in RL, the success of deep learning models of the visual system, as well as the search for the biological
-analogue of backpropagation.
+such the origins of deep learning, recent attention mechanisms and analytic techniques, the authors make a strong
+case for how neuroscience can help guide and accelerate AI research. Neuroscience can also benefit from AI, as
+shown by the success of deep learning models of the visual system.
 
-[Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a?a_aid=3598aabf)
+[Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com)
+by Thiboust (2020)
+
+Aimed primarily at AI researchers, this is a beautifully illustrated ebook outlining a variety of facts and theories
+about the brain, especially the neocortex, that have been already used, or otherwise could be used, to power AI.
 
 [The Mutual Inspirations of Machine Learning and Neuroscience](https://www.sciencedirect.com/science/article/pii/S089662731500255X)
+by Helmstaedter (2015)
+
+Focusing on classification tasks, this perspective outlines how machine learning has helped with the analysis of 
+the ever-common complex, high-dimensional datasets in neuroscience (e.g., connectomics) but pointing to their limitations
+as a motivation for solving the classification tricks of the brain.
 
 [Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
+by van Gerven (2017)
 
 
 ## Deep learning
