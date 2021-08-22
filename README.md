@@ -3,7 +3,7 @@ This is a repository for research papers at the intersection between neuroscienc
 particularly computational neuroscience and machine learning - a field also known as neuroscience-inspired AI
 or simply neuro-AI. The papers are categorised under the following sections:
 
-* [Surveys](#Surveys)
+* [Perspectives](#Perspectives)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
@@ -21,7 +21,7 @@ by Ganguli (2018); and Hassabis' commentary in [Is the brain a good model for ma
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
 
-## Surveys
+## Perspectives
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 by Hassabis et al. (2017)
@@ -30,6 +30,11 @@ This is arguably the manifesto for neuro-AI. Reviewing past and present interact
 such the origins of deep learning, recent attention mechanisms and analytic techniques, the authors make a strong
 case for how neuroscience can help guide and accelerate AI research. Neuroscience can also benefit from AI, as
 shown by the success of deep learning models of the visual system.
+
+[Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
+by van Gerven (2017)
+
+Focusing on artificial neural networks, this reviews covers various modelling approaches to intelligence.
 
 [Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com)
 by Thiboust (2020)
@@ -41,11 +46,8 @@ about the brain, especially the neocortex, that have been already used, or other
 by Helmstaedter (2015)
 
 Focusing on classification tasks, this perspective outlines how machine learning has helped with the analysis of 
-the ever-common complex, high-dimensional datasets in neuroscience (e.g., connectomics) but pointing to their limitations
-as a motivation for solving the classification tricks of the brain.
-
-[Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
-by van Gerven (2017)
+the complex, high-dimensional neuroscience datasets (e.g., connectomics), pointing to their limitations as a motivation
+for solving the classification tricks of the brain.
 
 
 ## Deep learning
