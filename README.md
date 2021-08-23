@@ -1,4 +1,7 @@
 # Neuro-AI Papers 🧠💻
+
+![alt text](https://github.com/FrancescoInnocenti/Neuro_AI_Papers/blob/main/neuro_ai.jpg)
+
 This is a repository for research papers at the intersection between computational neuroscience and machine learning,
 a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
 
