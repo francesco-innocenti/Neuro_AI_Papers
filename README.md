@@ -1,7 +1,6 @@
 # Neuro-AI Papers 🧠💻
-This is a repository for research papers at the intersection between neuroscience and artificial intelligence -
-particularly computational neuroscience and machine learning - a field also known as neuroscience-inspired AI
-or simply neuro-AI. The papers are categorised under the following sections:
+This is a repository for research papers at the intersection between computational neuroscience and machine learning,
+a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
 
 * [Perspectives](#Perspectives)
 * [Deep learning](#Deep-learning)
@@ -34,13 +33,14 @@ shown by the success of deep learning models of the visual system.
 [Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
 by van Gerven (2017)
 
-Focusing on artificial neural networks, this reviews covers various modelling approaches to intelligence.
+Focusing on artificial neural networks, this reviews discusses various modelling approaches to intelligence across many
+disciplines and levels of analysis.
 
 [Insights from the brain: The road towards Machine Intelligence](https://www.insightsfromthebrain.com)
 by Thiboust (2020)
 
 Aimed primarily at AI researchers, this is a beautifully illustrated ebook outlining a variety of facts and theories
-about the brain, especially the neocortex, that have been already used, or otherwise could be used, to power AI.
+about the brain that have been already used, or otherwise could be used, to power AI.
 
 [The Mutual Inspirations of Machine Learning and Neuroscience](https://www.sciencedirect.com/science/article/pii/S089662731500255X)
 by Helmstaedter (2015)
@@ -54,19 +54,32 @@ for solving the classification tricks of the brain.
 
 ### Reviews & perspectives
 
+[A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
+by Richards et al. (2019)
+
+This famous perspective including more than 30 neuroscientists and AI researchers argues that systems neuroscience
+should focus on the three key design components of artificial neural networks: architectures, objective functions, and
+learning rules.
+
+[If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
+by Saxe, Nelli & Summerfield (2021)
+
+
+
 [Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
 
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
-[If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
-
 [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
+
+[Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040)
+by Kriegeskorte & Golan (2019)
+
+A good primer on deep neural networks for biologists.
 
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
 
 [Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
-
-[A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
 
 [Deep neural network models of sensory systems: windows onto the role of task constraints](https://www.sciencedirect.com/science/article/pii/S0959438818302034)
 
@@ -81,6 +94,9 @@ for solving the classification tricks of the brain.
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
+
+[The Self-Assembling Brain: How Neural Networks Grow Smarter](https://press.princeton.edu/books/hardcover/9780691181226/the-self-assembling-brain)
+by Hiesinger (2021)
 
 ### Vision
 
