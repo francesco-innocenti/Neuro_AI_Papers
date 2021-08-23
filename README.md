@@ -1,7 +1,4 @@
 # Neuro-AI Papers 🧠💻
-
-![alt text](https://github.com/FrancescoInnocenti/Neuro_AI_Papers/blob/main/neuro_ai.jpg)
-
 This is a repository for research papers at the intersection between computational neuroscience and machine learning,
 a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
 
@@ -14,6 +11,8 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
   * [Backpropagation in the brain?](#Backpropagation-in-the-brain?) 
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
+
+![alt text](https://github.com/FrancescoInnocenti/Neuro_AI_Papers/blob/main/neuro_ai.jpg)
 
 If you're new to this field, there are some great high-level articles that outline the general motivation behind
 looking at the brain to build intelligent systems. See, for example,
