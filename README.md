@@ -164,6 +164,13 @@ by Hiesinger (2021)
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 
+[Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
+by Hawkins & Ahmad (2016)
+
+This paper does exactly what it promises. They show how thousands of synapses on multiple dendrites allow a neuron to 
+recognise hundreds of independent patterns robustly. They propose a neuron model with proximal dendrites serving
+feedforward input leading to action potentials and basal and apical dendrites serving predictions leading only to
+depolarisation. They show how a network of these neurons can learn sequences of patterns continuously and robustly.
 
 ## Background
 
