@@ -165,4 +165,26 @@ by Hiesinger (2021)
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 
 
+## Background
 
+### Neuroscience
+
+#### Popular books
+
+#### Textbooks
+* [Principles of Neural Science](https://www.mhprofessional.com/9781259642234-usa-principles-of-neural-science-sixth-edition-group)
+  by Kandel et al. (2021) - often considered the "bible" of neuroscience
+* [Neuroscience](https://global.oup.com/ushe/product/neuroscience-9781605353807%3Fq%3Dneuroscience%26lang%3Den%26cc%3Dus)
+  by Purves et al. (2018)
+* [Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design)
+  by Sterling & Laughlin (2017)
+* [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems](https://mitpress.mit.edu/books/theoretical-neuroscience)
+  by Abbott & Dayan (2005)
+* [The Computational Brain](https://mitpress.mit.edu/books/computational-brain)
+  by Churchland & Sejnowski (1992)
+* [Brain Computation as Hierarchical Abstraction](https://mitpress.mit.edu/books/brain-computation-hierarchical-abstraction)
+  by Ballard (2015)
+
+
+### AI
+* 
