@@ -57,20 +57,22 @@ for solving the classification tricks of the brain.
 [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
 by Richards et al. (2019)
 
-This famous perspective including more than 30 neuroscientists and AI researchers argues that systems neuroscience
+Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
 should focus on the three key design components of artificial neural networks: architectures, objective functions, and
 learning rules.
 
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
 
+In this other perspective, the authors argue against the view that focusing on deep networks in neuroscience means
+giving up trying to explain neural computation, emphasising that these models should make falsifiable predictions.
 
+[Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
+by Hasson, Nastase & Goldstein (2020)
 
 [Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
 
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
-
-[Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
 
 [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040)
 by Kriegeskorte & Golan (2019)
