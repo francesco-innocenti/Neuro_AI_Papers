@@ -58,17 +58,26 @@ for solving the classification tricks of the brain.
 by Richards et al. (2019)
 
 Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
-should focus on the three key design components of artificial neural networks: architectures, objective functions, and
-learning rules.
+should focus on the three key design components of artificial neural networks: architectures, learning rules, and
+objective functions.
+
+[Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
+by Hasson, Nastase & Goldstein (2020)
+
+The authors of this perspective argue that, similar to evolution by natural selection, artificial and biological neural
+networks learn over-parametrised models in an iterative, mindless optimisation process they call "direct fit".
+Contrary to traditional statistical views, over-parametrised models do not always overfit and can allow effective
+generalisation based on interpolation, as opposed to extrapolation, when trained on big real-world data - simply because
+they'll have sampled most of the parameter space and will therefore unlikely need to extrapolate (like a fish will
+unlikely need to venture on earth). Following the above "deep learning framework", they argue that these models are
+fundamentally uninterpretable and we should focus on their design components, just like we tend to focus on the
+ingredients of natural selection.
 
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
 
-In this other perspective, the authors argue against the view that focusing on deep networks in neuroscience means
-giving up trying to explain neural computation, emphasising that these models should make falsifiable predictions.
-
-[Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
-by Hasson, Nastase & Goldstein (2020)
+In contrast to the above perspectives, these authors caution against the view that focusing on deep networks in neuroscience
+means giving up trying to explain neural computation, emphasising that these models should make falsifiable predictions.
 
 [Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
 
@@ -168,9 +177,10 @@ by Hiesinger (2021)
 by Hawkins & Ahmad (2016)
 
 This paper does exactly what it promises. They show how thousands of synapses on multiple dendrites allow a neuron to 
-recognise hundreds of independent patterns robustly. They propose a neuron model with proximal dendrites serving
-feedforward input leading to action potentials and basal and apical dendrites serving predictions leading only to
-depolarisation. They show how a network of these neurons can learn sequences of patterns continuously and robustly.
+recognise hundreds of independent patterns robustly. They propose a neuron model with three different types of dendrites:
+proximal dendrites providing feedforward input and leading to action potentials; and basal and apical dendrites
+providing predictions and leading only to depolarisation. They show how a network of these neurons can learn sequences 
+of patterns continuously and robustly.
 
 ## Background
 
