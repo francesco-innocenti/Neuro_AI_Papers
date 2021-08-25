@@ -16,7 +16,9 @@ If you're new to this field, there are some great high-level articles that outli
 looking at the brain to build intelligent systems. See, for example,
 [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
 by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
-by Ganguli (2018); and Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
+by Ganguli (2018); Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a);
+and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
+by Ullman (2019). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
 
