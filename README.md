@@ -185,10 +185,6 @@ of patterns continuously and robustly.
 ## Background
 
 ### Neuroscience
-
-#### Popular books
-
-#### Textbooks
 * [Principles of Neural Science](https://www.mhprofessional.com/9781259642234-usa-principles-of-neural-science-sixth-edition-group)
   by Kandel et al. (2021) - often considered the "bible" of neuroscience
 * [Neuroscience](https://global.oup.com/ushe/product/neuroscience-9781605353807%3Fq%3Dneuroscience%26lang%3Den%26cc%3Dus)
@@ -201,7 +197,18 @@ of patterns continuously and robustly.
   by Churchland & Sejnowski (1992)
 * [Brain Computation as Hierarchical Abstraction](https://mitpress.mit.edu/books/brain-computation-hierarchical-abstraction)
   by Ballard (2015)
-
-
+  
 ### AI
-* 
+* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu)
+  by Russell & Norvig (2020) - the equivalent bible of AI
+* [Deep Learning](https://www.deeplearningbook.org/)
+  by Goodfellow et al. (2016)
+* [The Deep Learning Revolution](https://mitpress.mit.edu/books/deep-learning-revolution)
+  by Sejnowski (2018)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+  by Nielsen (2015)
+* [Dive Into Deep Learning: Tools for Engagement](https://d2l.ai/)
+  by Quinn et al. (2019)
+* [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
+  by Sutton & Barto (2018)
+  
