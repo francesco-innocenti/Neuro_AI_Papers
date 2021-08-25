@@ -175,16 +175,20 @@ by Hiesinger (2021)
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 
+This paper extends the previous network model of Hawkins & Ahmad (2016). They show that a two-layer cortical column can
+recognise hundreds of objects with somatic sensations combined with a location signal relative to the object. Crucially,
+the number of sensations reduce dramatically with multiple columns.
+
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 by Hawkins & Ahmad (2016)
 
 This paper does exactly what it promises. They show how thousands of synapses on multiple dendrites allow a neuron to 
-recognise hundreds of independent patterns robustly. They propose a neuron model with three different types of dendrites:
-proximal dendrites providing feedforward input and leading to action potentials; and basal and apical dendrites
-providing predictions and leading only to depolarisation. They show how a network of these neurons can learn sequences 
-of patterns continuously and robustly.
+recognise hundreds of independent patterns robustly. They propose a neuron model incorporating the three known
+dendritic integration zones of pyramidal neurons: proximal dendrites providing feedforward input and leading to action
+potentials; and basal and apical dendrites providing predictions with depolarisation without action potential. They show 
+that a single-layer network of these neurons can learn **learn how?** pattern sequences continuously and robustly.
 
-## Background
+## Background sources
 
 ### Neuroscience
 * [Principles of Neural Science](https://www.mhprofessional.com/9781259642234-usa-principles-of-neural-science-sixth-edition-group)
