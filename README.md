@@ -2,13 +2,14 @@
 This is a repository for research papers at the intersection between computational neuroscience and machine learning,
 a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
 
-* [Perspectives](#Perspectives)
+* [Motivation](#Motivation)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
   * [Model benchmarks](#Model-benchmarks)
   * [Interpretability](#Interpretability)
   * [Backpropagation in the brain?](#Backpropagation-in-the-brain?) 
+  * [Nature & nurture](#Nature-&-nurture)
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
 
@@ -22,7 +23,7 @@ by Ullman (2019). In brief, the brain is the only existing proof of intelligence
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
 
-## Perspectives
+## Motivation
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 by Hassabis et al. (2017)
@@ -47,8 +48,8 @@ about the brain that have been already used, or otherwise could be used, to powe
 [The Mutual Inspirations of Machine Learning and Neuroscience](https://www.sciencedirect.com/science/article/pii/S089662731500255X)
 by Helmstaedter (2015)
 
-Focusing on classification tasks, this perspective outlines how machine learning has helped with the analysis of 
-the complex, high-dimensional neuroscience datasets (e.g., connectomics), pointing to their limitations as a motivation
+Focusing on the topic of classification, this perspective outlines how machine learning has helped with the analysis of 
+the  high-dimensional neuroscience datasets (e.g., connectomics), and points to their limitations as a motivation
 for solving the classification tricks of the brain.
 
 
@@ -62,6 +63,15 @@ by Richards et al. (2019)
 Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
 should focus on the three key design components of artificial neural networks: architectures, learning rules, and
 objective functions.
+
+[Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
+by Sinz et al. (2019)
+
+This perspective reviews some important limitations of modern deep networks especially in object recognition, such as
+poor generalisation, and suggests to focus on inductive biases or constraints inspired by brains at all of Marr's levels
+to make progress: multi-task training at the computational level, co-training on neural data at the algorithmic level, 
+and mimicking network architecture and at the implementation level. This is in line with the "deep learning framework"
+(Richards et al., 2019).
 
 [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
 by Hasson, Nastase & Goldstein (2020)
@@ -92,8 +102,6 @@ A good primer on deep neural networks for biologists.
 
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
 
-[Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
-
 [Deep neural network models of sensory systems: windows onto the role of task constraints](https://www.sciencedirect.com/science/article/pii/S0959438818302034)
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
@@ -115,11 +123,19 @@ by Hiesinger (2021)
 
 [Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
 
+[Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
+
 [Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
 
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
+
+[Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
+
+[Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
+
+[Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
 
 ### Model benchmarks
 
@@ -151,6 +167,7 @@ by Hiesinger (2021)
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
+### Nature & nurture
 
 ## Reinforcement learning
 
@@ -184,9 +201,10 @@ by Hawkins & Ahmad (2016)
 
 This paper does exactly what it promises. They show how thousands of synapses on multiple dendrites allow a neuron to 
 recognise hundreds of independent patterns robustly. They propose a neuron model incorporating the three known
-dendritic integration zones of pyramidal neurons: proximal dendrites providing feedforward input and leading to action
-potentials; and basal and apical dendrites providing predictions with depolarisation without action potential. They show 
-that a single-layer network of these neurons can learn **learn how?** pattern sequences continuously and robustly.
+dendritic integration zones of pyramidal neurons: proximal dendrites providing feedforward input leading to action
+potentials; and basal and apical dendrites providing predictions leading to depolarisation only. They show that a 
+single-layer network of these neurons can learn with a Hebbian-like rule sequences of patterns continuously and 
+robustly.
 
 ## Background sources
 
