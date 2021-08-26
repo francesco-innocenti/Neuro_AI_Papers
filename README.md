@@ -187,14 +187,23 @@ by Hiesinger (2021)
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+by Hawkins et al. (2019)
+
+This is the technical paper of the theory.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
+by Lewis et al. (2019)
+
+Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent locations relative to an object. 
+This paper proposes that every cortical column learns a model of objects in the same way grid cells in the 
+enthorinal cortex learn models or maps of the environment relative to the body. 
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
+by Hawkins, Ahmad & Cui (2017)
 
 This paper extends the previous network model of Hawkins & Ahmad (2016). They show that a two-layer cortical column can
-recognise hundreds of objects with somatic sensations combined with a location signal relative to the object. Crucially,
-the number of sensations reduce dramatically with multiple columns.
+recognise hundreds of objects with somatic sensations/input combined with a location signal relative to the object (object-centric). Crucially,
+the number of sensations required to recognise an object reduces dramatically with multiple columns. 
 
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 by Hawkins & Ahmad (2016)
