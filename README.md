@@ -95,16 +95,12 @@ means giving up trying to explain neural computation, emphasising that these mod
 
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
-[Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040)
-by Kriegeskorte & Golan (2019)
-
-A good primer on deep neural networks for biologists.
-
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
 
 [Deep neural network models of sensory systems: windows onto the role of task constraints](https://www.sciencedirect.com/science/article/pii/S0959438818302034)
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
+by Cichy & Kaiser (2019)
 
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
 
@@ -115,9 +111,10 @@ A good primer on deep neural networks for biologists.
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
+by Kriegeskorte (2015)
 
-[The Self-Assembling Brain: How Neural Networks Grow Smarter](https://press.princeton.edu/books/hardcover/9780691181226/the-self-assembling-brain)
-by Hiesinger (2021)
+This is one of the first reviews on deep networks for computational neuroscience, with a focus on vision, and can be 
+seen as the precursor of the deep learning framework (Richards et al., 2019).
 
 ### Vision
 
@@ -131,13 +128,16 @@ by Hiesinger (2021)
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 
+[Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
+
+These two papers below are two classic studies comparing the representations of deep convolutional neural networks and 
+the visual cortex.
+
 [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
 
 [Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
 
-[Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
-
-### Model benchmarks
+#### Model benchmarks
 
 [The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
 
@@ -168,6 +168,10 @@ by Hiesinger (2021)
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ### Nature & nurture
+
+[The Self-Assembling Brain: How Neural Networks Grow Smarter](https://press.princeton.edu/books/hardcover/9780691181226/the-self-assembling-brain)
+by Hiesinger (2021)
+
 
 ## Reinforcement learning
 
@@ -244,4 +248,6 @@ robustly.
   by Quinn et al. (2019)
 * [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
   by Sutton & Barto (2018)
+* [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040)
+  by Kriegeskorte & Golan (2019) - a good primer on deep neural networks for biologists
   
