@@ -106,20 +106,18 @@ by Cichy & Kaiser (2019)
 
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 
-[Parallel Distributed Processing Theory in the Age of Deep Networks](http://www.sciencedirect.com/science/article/pii/S1364661317302164)
-
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 by Marblestone, Wayne & Kording (2016)
 
-An early review putting forward three hypothesis about the brain based on machine learning ideas: (i) the brain 
-optimises objective functions, (ii) objective functions are diverse across areas and change over development, and 
-(iii) specialised architectures can solve specific computational problems.
+An early, comprehensive review encouraging neuro-AI research. The authors put forward three hypothesis about the brain 
+based on machine learning ideas: (i) the brain optimises objective functions, (ii) objective functions are diverse 
+across areas and change over development, and (iii) specialised architectures can solve specific computational problems.
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
 
-This is one of the first reviews on deep networks for computational neuroscience, with a focus on vision, and can be 
-seen as the precursor of the deep learning framework (Richards et al., 2019).
+This is one of the first (if not the first) introductions to deep learning for computational neuroscience, with a focus 
+on vision, and can be seen as the precursor of the deep learning framework (Richards et al., 2019).
 
 ### Vision
 
