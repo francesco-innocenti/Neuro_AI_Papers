@@ -109,6 +109,11 @@ by Cichy & Kaiser (2019)
 [Parallel Distributed Processing Theory in the Age of Deep Networks](http://www.sciencedirect.com/science/article/pii/S1364661317302164)
 
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
+by Marblestone, Wayne & Kording (2016)
+
+An early review putting forward three hypothesis about the brain based on machine learning ideas: (i) the brain 
+optimises objective functions, (ii) objective functions are diverse across areas and change over development, and 
+(iii) specialised architectures can solve specific computational problems.
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
