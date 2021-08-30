@@ -109,25 +109,35 @@ by Cichy & Kaiser (2019)
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 by Marblestone, Wayne & Kording (2016)
 
-An early, comprehensive review encouraging neuro-AI research. The authors put forward three hypothesis about the brain 
+Another early, comprehensive review encouraging neuro-AI research. The authors put forward three hypothesis about the brain 
 based on machine learning ideas: (i) the brain optimises objective functions, (ii) objective functions are diverse 
 across areas and change over development, and (iii) specialised architectures can solve specific computational problems.
+
+[Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
+by Yamins & DiCarlo (2016)
+
+An early, highly cited perspective on modelling the sensory cortex, focused on the visual cortex, by using deep 
+convolutional neural networks trained on similar tasks (i.e., goal-driven).
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
 
-This is one of the first (if not the first) introductions to deep learning for computational neuroscience, with a focus 
+This is one of the first (if not the first) introductions to deep learning for computational neuroscience, also focused 
 on vision, and can be seen as the precursor of the deep learning framework (Richards et al., 2019).
 
 ### Vision
+Most research to date on deep neural networks in computational neuroscience has focused on vision both because the 
+visual system is one of the most studied and because computer vision was the one of the first domains were deep networks 
+proved successful.
 
-[Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
+[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
+by Lindsay (2020)
+
+
 
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
 
 [Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
-
-[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 
