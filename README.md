@@ -97,6 +97,7 @@ falsifiable predictions.
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
+by Storrs & Kriegeskorte (2019)
 
 [Deep neural network models of sensory systems: windows onto the role of task constraints](https://www.sciencedirect.com/science/article/pii/S0959438818302034)
 
@@ -135,8 +136,9 @@ This is one of the first (if not the first) introductions to deep learning for c
 on vision, and can be seen as the precursor of the deep learning framework (Richards et al., 2019).
 
 ### Vision
-Most research to date on deep neural networks in computational neuroscience has focused on vision both because the 
-visual system is one of the most studied and because computer vision was the first where deep networks proved successful.
+As clear from the above reviews and perspectives, most research to date on deep neural networks in computational 
+neuroscience has focused on vision both because the visual system is one of the most studied and because computer vision 
+was the first where deep networks proved successful.
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
@@ -213,21 +215,20 @@ by Hiesinger (2021)
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 
-[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
-by Hawkins et al. (2019)
-
-This is the technical paper of the theory.
-
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
 
 Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent object-related locations. 
-This paper proposes that every cortical column learns models of objects in the same way grid cells in the 
-entorhinal cortex learn models or maps of the environment (relative to the body). In particular,
+This paper proposes that every cortical column learns models of objects in the same way grid cells in the entorhinal 
+cortex learn models of the environment. They show that a two-layer network, including a location layer of cortical grid
+cells and a sensory layer identical to that of the model by Hawkins et al. (2017), can learn and recognise 2-D objects 
+through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto layer 6 and 
+4 of the neocortex, respectively.
 
-*we propose that cells in Layer 6 employ grid cell like mechanisms to represent object specific locations that are updated through movement. We propose that Layer 4 uses its input from Layer 6 to predict sensory input
+[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+by Hawkins et al. (2019)
 
-*propose that cortical grid cells represent the location of sensory patches, for example, the tip of a finger, in the reference frame of an object
+This is the technical theoretical paper of the theory.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
