@@ -88,8 +88,9 @@ ingredients of natural selection.
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
 
-In contrast to the above perspectives, these authors caution against the view that focusing on deep networks in neuroscience
-means giving up trying to explain neural computation, emphasising that these models should make falsifiable predictions.
+In contrast to many other perspectives including the above, these authors caution against the view that focusing on deep
+networks in neuroscience means giving up trying to explain neural computation, emphasising that these models should make 
+falsifiable predictions.
 
 [Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
 
@@ -105,6 +106,14 @@ by Cichy & Kaiser (2019)
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
 
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
+by Kietzmann, McClure & Kriegeskorte (2018)
+
+The authors review the success of deep convolutional neural networks in modelling the visual system, how these models 
+can be validated/tested with both neural and behavioural data across different levels and modalities. They also address 
+the common "black box" objection and argue, first, that understanding can come at a higher level of abstraction, by 
+looking at the design components of these models (e.g., input statistics, architecture, learning rule, etc.), and 
+second, that we can "look inside the box" with what has been called "in silico or synthetic neurophysiology", by for
+example visualising network features.
 
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 by Marblestone, Wayne & Kording (2016)
@@ -127,19 +136,20 @@ on vision, and can be seen as the precursor of the deep learning framework (Rich
 
 ### Vision
 Most research to date on deep neural networks in computational neuroscience has focused on vision both because the 
-visual system is one of the most studied and because computer vision was the one of the first domains were deep networks 
-proved successful.
+visual system is one of the most studied and because computer vision was the first where deep networks proved successful.
 
-[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
+[Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
 
+This is a great review covering the origin of CNNs, methods to validate them as models of the visual system, what we can
+learn from them...
 
+[A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
+by Lindsay (2019)
 
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
 
 [Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
-
-[Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 
 [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
 
@@ -211,16 +221,20 @@ This is the technical paper of the theory.
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
 
-Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent locations relative to an object. 
-This paper proposes that every cortical column learns a model of objects in the same way grid cells in the 
-enthorinal cortex learn models or maps of the environment relative to the body. 
+Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent object-related locations. 
+This paper proposes that every cortical column learns models of objects in the same way grid cells in the 
+entorhinal cortex learn models or maps of the environment (relative to the body). In particular,
+
+*we propose that cells in Layer 6 employ grid cell like mechanisms to represent object specific locations that are updated through movement. We propose that Layer 4 uses its input from Layer 6 to predict sensory input
+
+*propose that cortical grid cells represent the location of sensory patches, for example, the tip of a finger, in the reference frame of an object
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
 
 This paper extends the previous network model of Hawkins & Ahmad (2016). They show that a two-layer cortical column can
-recognise hundreds of objects with somatic sensations/input combined with a location signal relative to the object (object-centric). Crucially,
-the number of sensations required to recognise an object reduces dramatically with multiple columns. 
+recognise hundreds of objects with somatic sensations combined with a location signal relative to the object. 
+Crucially, the number of sensations reduces dramatically with multiple columns. 
 
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 by Hawkins & Ahmad (2016)
