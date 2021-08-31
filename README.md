@@ -209,26 +209,28 @@ by Hiesinger (2021)
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
 
-## The Thousand Brains Theory
+## The Thousand Brains Theory of Intelligence
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
+
+[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
+by Hawkins et al. (2019)
+
+This is the technical theoretical paper of the Thousand Brains Theory. The main claim is that every cortical column in 
+every region at every level of the hierarchy learns models of complete objects, physical and abstract, meaning that the 
+brain has possibly 1000s models of every object it learns.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
 
 Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent object-related locations. 
 This paper proposes that every cortical column learns models of objects in the same way grid cells in the entorhinal 
-cortex learn models of the environment. They show that a two-layer network, including a location layer of cortical grid
+cortex learn maps of environments. They show that a two-layer network, including a location layer of cortical grid
 cells and a sensory layer identical to that of the model by Hawkins et al. (2017), can learn and recognise 2-D objects 
-through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto layer 6 and 
-4 of the neocortex, respectively.
-
-[A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
-by Hawkins et al. (2019)
-
-This is the technical theoretical paper of the theory.
+through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto L6 and L4, 
+respectively.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
@@ -240,12 +242,11 @@ Crucially, the number of sensations reduces dramatically with multiple columns.
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 by Hawkins & Ahmad (2016)
 
-This paper does exactly what it promises. They show how thousands of synapses on multiple dendrites allow a neuron to 
-recognise hundreds of independent patterns robustly. They propose a neuron model incorporating the three known
-dendritic integration zones of pyramidal neurons: proximal dendrites providing feedforward input leading to action
-potentials; and basal and apical dendrites providing predictions leading to depolarisation only. They show that a 
-single-layer network of these neurons can learn with a Hebbian-like rule sequences of patterns continuously and 
-robustly.
+This paper shows how thousands of synapses on multiple dendrites allow a neuron to recognise hundreds of independent 
+patterns robustly. They propose a neuron model incorporating the three known dendritic integration zones of pyramidal
+neurons: proximal dendrites providing feedforward input leading to action potentials; and basal and apical dendrites 
+providing predictions leading to depolarisation only. They show that a single-layer network of these neurons can learn 
+with a Hebbian-like rule sequences of patterns continuously and robustly.
 
 ## Background sources
 
