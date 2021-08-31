@@ -209,18 +209,26 @@ by Hiesinger (2021)
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
 
-## The Thousand Brains Theory of Intelligence
+## The Thousand Brains Theory of Intelligence 
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
+by Hole & Ahmad (2021)
+
+A high-level article that advocates for neuro-AI research, focusing on the Thousand Brains Theory. It emphasises the 
+importance of sparse representations, more biologically realistic neuron models, and the idea of reference frames, 
+continuous online learning, sensorimotor integration, among other things.
 
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
 This is the technical theoretical paper of the Thousand Brains Theory. The main claim is that every cortical column in 
 every region at every level of the hierarchy learns models of complete objects, physical and abstract, meaning that the 
-brain has possibly 1000s models of every object it learns.
+brain holds possibly 1000s simultaneous models of every object it learns. They make two additional interesting proposals: 
+(i) displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, enable 
+learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual pathways 
+represent allocentric (object-related) and egocentric (body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
@@ -256,7 +264,8 @@ with a Hebbian-like rule sequences of patterns continuously and robustly.
 * [Neuroscience](https://global.oup.com/ushe/product/neuroscience-9781605353807%3Fq%3Dneuroscience%26lang%3Den%26cc%3Dus)
   by Purves et al. (2018)
 * [Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design)
-  by Sterling & Laughlin (2017)
+  by Sterling & Laughlin (2017) - this textbook does what few other works have done in neuroscience: extracting design 
+  principles of the brain (though mostly low-level), helping to explain why the brain is much more efficient than computers
 * [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems](https://mitpress.mit.edu/books/theoretical-neuroscience)
   by Abbott & Dayan (2005)
 * [The Computational Brain](https://mitpress.mit.edu/books/computational-brain)
