@@ -15,10 +15,11 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
 
 If you're new to this field, there are some great high-level articles that outline the general motivation behind
 looking at the brain to build intelligent systems. See, for example,
-[To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
+[What Intelligent Machines Need to Learn From the Neocortex](https://ieeexplore.ieee.org/abstract/document/7934229)
+by Hawkins (2017); Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a)
+(2012); [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
 by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
-by Ganguli (2018); Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a);
-and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
+by Ganguli (2018); and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
 by Ullman (2019). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
@@ -99,7 +100,14 @@ falsifiable predictions.
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
 by Storrs & Kriegeskorte (2019)
 
+A similar survey that also addresses how deep neural networks can help cognitive neuroscientists study higher level 
+cognitive functions such as language and reasoning.
+
 [Deep neural network models of sensory systems: windows onto the role of task constraints](https://www.sciencedirect.com/science/article/pii/S0959438818302034)
+by Kell & McDermott (2019)
+
+Another review of deep networks for modelling the sensory cortex, emphasising their use as normative models providing 
+insights into task constraints.
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
@@ -209,7 +217,7 @@ by Hiesinger (2021)
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
 
-## The Thousand Brains Theory of Intelligence 
+## The Thousand Brains Theory
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 
@@ -223,12 +231,12 @@ continuous online learning, sensorimotor integration, among other things.
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
-This is the technical theoretical paper of the Thousand Brains Theory. The main claim is that every cortical column in 
-every region at every level of the hierarchy learns models of complete objects, physical and abstract, meaning that the 
-brain holds possibly 1000s simultaneous models of every object it learns. They make two additional interesting proposals: 
-(i) displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, enable 
-learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual pathways 
-represent allocentric (object-related) and egocentric (body-related) locations, respectively.
+This is the technical theoretical paper of the Thousand Brains Theory of Intelligence. The main claim is that every 
+cortical column in every region at every level of the hierarchy learns models of complete objects, physical and abstract, 
+meaning that the brain creates possibly 1000s models operating in parallel. They make two additional interesting 
+proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, 
+enable learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual 
+ways represent allocentric (object-related) and egocentric (body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
@@ -254,7 +262,7 @@ This paper shows how thousands of synapses on multiple dendrites allow a neuron 
 patterns robustly. They propose a neuron model incorporating the three known dendritic integration zones of pyramidal
 neurons: proximal dendrites providing feedforward input leading to action potentials; and basal and apical dendrites 
 providing predictions leading to depolarisation only. They show that a single-layer network of these neurons can learn 
-with a Hebbian-like rule sequences of patterns continuously and robustly.
+with an unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
 
 ## Background sources
 
