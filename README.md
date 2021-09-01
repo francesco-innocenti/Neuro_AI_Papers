@@ -34,6 +34,14 @@ such the origins of deep learning, recent attention mechanisms and analytic tech
 case for how neuroscience can help guide and accelerate AI research. Neuroscience can also benefit from AI, as
 shown by the success of deep learning models of the visual system.
 
+[Building machines that learn and think like people](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
+by Lake et al. (2017)
+
+This is a highly cited, incredibly comprehensive paper that, drawing from research in cognitive science, argues that 
+general AI should (i) build causal models of the world, (ii) have intuitive physics and psychology, and (iii) be able to 
+learn compositional structure as well as learning to learning. They emphasise probabilistic, Bayesian models and argue 
+that psychology can provide stronger constraints than neuroscience on intelligence.
+
 [Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
 by van Gerven (2017)
 
@@ -107,12 +115,15 @@ cognitive functions such as language and reasoning.
 by Kell & McDermott (2019)
 
 Another review of deep networks for modelling the sensory cortex, emphasising their use as normative models providing 
-insights into task constraints.
+insights into task constraints. Generative models are suggested as a promising research directions.
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
+by Kriegeskorte & Douglas (2018)
+
+
 
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
@@ -228,15 +239,21 @@ A high-level article that advocates for neuro-AI research, focusing on the Thous
 importance of sparse representations, more biologically realistic neuron models, and the idea of reference frames, 
 continuous online learning, sensorimotor integration, among other things.
 
+[Grid Cell Path Integration For Movement-Based Visual Object Recognition](http://arxiv.org/abs/2102.09076)
+by Leadholm, Lewis & Ahmad (2021)
+
+This is a very interesting paper further extending the model of Lewis et al. (2019). They show that a similar two-layer 
+network named "GridCellNet" can...
+
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
 This is the technical theoretical paper of the Thousand Brains Theory of Intelligence. The main claim is that every 
-cortical column in every region at every level of the hierarchy learns models of complete objects, physical and abstract, 
-meaning that the brain creates possibly 1000s models operating in parallel. They make two additional interesting 
-proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, 
-enable learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual 
-ways represent allocentric (object-related) and egocentric (body-related) locations, respectively.
+cortical column in every region at every level of the hierarchy learns models of complete objects, physical and abstract.
+This means that the brain creates possibly 1000s models in parallel. They make two additional interesting proposals: (i)
+displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, enable learning 
+the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual ways represent a
+llocentric (object-related) and egocentric (body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
@@ -244,15 +261,15 @@ by Lewis et al. (2019)
 Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent object-related locations. 
 This paper proposes that every cortical column learns models of objects in the same way grid cells in the entorhinal 
 cortex learn maps of environments. They show that a two-layer network, including a location layer of cortical grid
-cells and a sensory layer identical to that of the model by Hawkins et al. (2017), can learn and recognise 2-D objects 
-through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto L6 and L4, 
-respectively.
+cells and a sensory layer identical to that of the model by Hawkins et al. (2017), can learn and recognise 2-D synthetic
+objects through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto L6 
+and L4, respectively.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
 
 This paper extends the previous network model of Hawkins & Ahmad (2016). They show that a two-layer cortical column can
-recognise hundreds of objects with somatic sensations combined with a location signal relative to the object. 
+recognise hundreds of synthetic objects with somatic sensations combined with a location signal relative to the object. 
 Crucially, the number of sensations reduces dramatically with multiple columns. 
 
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
@@ -284,6 +301,8 @@ with an unsupervised Hebbian-like rule sequences of patterns continuously and ro
 ### AI
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu)
   by Russell & Norvig (2020) - the equivalent bible of AI
+* [Deep Learning for AI](https://dl.acm.org/doi/10.1145/3448250)
+  by Hinton, Bengio & LeCun (2021) - the most recent survey of deep learning including a summary video
 * [Deep Learning](https://www.deeplearningbook.org/)
   by Goodfellow et al. (2016)
 * [The Deep Learning Revolution](https://mitpress.mit.edu/books/deep-learning-revolution)
@@ -292,8 +311,8 @@ with an unsupervised Hebbian-like rule sequences of patterns continuously and ro
   by Nielsen (2015)
 * [Dive Into Deep Learning: Tools for Engagement](https://d2l.ai/)
   by Quinn et al. (2019)
-* [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
-  by Sutton & Barto (2018)
 * [Neural network models and deep learning](https://www.sciencedirect.com/science/article/pii/S0960982219302040)
   by Kriegeskorte & Golan (2019) - a good primer on deep neural networks for biologists
+* [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
+  by Sutton & Barto (2018)
   
