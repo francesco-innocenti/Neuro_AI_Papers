@@ -15,9 +15,9 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
 
 If you're new to this field, there are some great high-level articles that outline the general motivation behind
 looking at the brain to build intelligent systems. See, for example,
-[What Intelligent Machines Need to Learn From the Neocortex](https://ieeexplore.ieee.org/abstract/document/7934229)
-by Hawkins (2017); Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a)
-(2012); [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
+Hassabis' commentary in [Is the brain a good model for machine intelligence?](https://www.nature.com/articles/482462a)
+(2012); [What Intelligent Machines Need to Learn From the Neocortex](https://ieeexplore.ieee.org/abstract/document/7934229)
+by Hawkins (2017); [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
 by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
 by Ganguli (2018); and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
 by Ullman (2019). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
@@ -123,7 +123,9 @@ by Cichy & Kaiser (2019)
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
 by Kriegeskorte & Douglas (2018)
 
-
+This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence
+under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-
+up experiments, and provide a useful classification of the variety of models used across these disciplines.
 
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
