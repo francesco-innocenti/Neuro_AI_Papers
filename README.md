@@ -42,6 +42,13 @@ general AI should (i) build causal models of the world, (ii) have intuitive phys
 learn compositional structure as well as learning to learning. They emphasise probabilistic, Bayesian models and argue 
 that psychology can provide stronger constraints than neuroscience on intelligence.
 
+[Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
+by Kriegeskorte & Douglas (2018)
+
+This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence
+under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-
+up experiments, and provide a useful classification of the wide variety of models used across these disciplines.
+
 [Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
 by van Gerven (2017)
 
@@ -120,13 +127,6 @@ insights into task constraints. Generative models are suggested as a promising r
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
-[Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
-by Kriegeskorte & Douglas (2018)
-
-This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence
-under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-
-up experiments, and provide a useful classification of the variety of models used across these disciplines.
-
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
 
@@ -162,6 +162,16 @@ by Yuste (2015)
 "[T]he history of neuroscience is the history of its methods". A historical perspective reflecting on how the neuron 
 doctrine emerged in the context of single-cell (anatomical and physiological) studies and how new multineuronal 
 techniques are leading to the neural network paradigm.
+
+[Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
+
+[Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
+
+[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
+
+[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
+
+[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep neural networks in computational 
@@ -202,17 +212,9 @@ the visual cortex.
 
 [The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
 
-### Interpretability
+### Audition
 
-[Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
-
-[Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
-
-[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
-
-[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
-
-[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
+[A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
 
 ### Backpropagation in the brain?
 
