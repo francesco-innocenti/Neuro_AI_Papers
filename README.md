@@ -151,8 +151,15 @@ convolutional neural networks trained on similar tasks (i.e., goal-driven).
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
 
-This is one of the first (if not the first) introductions to deep learning for computational neuroscience, also focused 
-on vision, and can be seen as the precursor of the deep learning framework (Richards et al., 2019).
+This is one of the first introductions to deep learning for computational neuroscience, also focused on vision, and 
+can be seen as the precursor of the deep learning framework (Richards et al., 2019).
+
+[From the neuron doctrine to neural networks](https://www.nature.com/articles/nrn3962)
+by Yuste (2015)
+
+"[T]he history of neuroscience is the history of its methods". A historical perspective reflecting on how the neuron 
+doctrine emerged in the context of single-cell (anatomical and physiological) studies and how new multineuronal 
+techniques are leading to the neural network paradigm.
 
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep neural networks in computational 
