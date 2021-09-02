@@ -8,7 +8,8 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
   * [Vision](#Vision)
   * [Audition](#Audition)
   * [Model benchmarks](#Model-benchmarks)
-  * [Backprop in the brain?](#Backprop-in-the-brain?) 
+  * [Backprop in the brain?](#Backprop-in-the-brain?)
+  * [Artificial & biological neurons](#Artificial-&-biological-neurons)
   * [Nature & nurture](#Nature-&-nurture)
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
@@ -222,7 +223,7 @@ the visual cortex.
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
-### Artificial and biological neurons
+### Artificial & biological neurons
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
