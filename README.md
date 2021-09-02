@@ -8,7 +8,7 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
   * [Vision](#Vision)
   * [Audition](#Audition)
   * [Model benchmarks](#Model-benchmarks)
-  * [Backpropagation in the brain?](#Backpropagation-in-the-brain?) 
+  * [Backprop in the brain?](#Backprop-in-the-brain?) 
   * [Nature & nurture](#Nature-&-nurture)
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
@@ -216,11 +216,19 @@ the visual cortex.
 
 [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
 
-### Backpropagation in the brain?
+### Backprop in the brain?
 
 [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
+
+### Artificial and biological neurons
+
+[Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
+by Beniaguev, Segev & London (2021)
+
+See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+by Whitten (2021) for a non-technical overview of the paper.
 
 ### Nature & nurture
 
