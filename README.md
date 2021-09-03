@@ -239,6 +239,8 @@ the visual cortex.
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ### Artificial & biological neurons
+There is increasing evidence that biological neurons and their dendrites are much more powerful, computationally, than 
+the classic "point neurons" of artificial neural networks. 
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
@@ -246,11 +248,20 @@ by Beniaguev, Segev & London (2021)
 See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
 by Whitten (2021) for a non-technical overview of the paper.
 
+[Drawing inspiration from biological dendrites to empower artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0959438821000544)
+by Chavlis & Poirazi (2021)
+
+This opinion piece reviews certain properties of dendrites and argues that incorporating these properties in artificial 
+neural networks could increase their computational power and reduce consumption.
+
 [Dendritic action potentials and computation in human layer 2/3 cortical neurons](https://science.sciencemag.org/content/367/6473/83)
 by Gidon et al. (2020)
 
-There is a Quanta Magazine article [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
-by Cepelewicz (2020) for this paper too.
+This study discovered a new type of dendritic spike in human pyramidal neurons located in layer 2/3. These spikes allow 
+neurons to compute the XOR function - a function that only artificial networks with multiple hidden layers can solve. 
+This paper was also picked up by Quanta Magazine:
+[Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
+(Cepelewicz, 2020).
 
 [Challenging the point neuron dogma: FS basket cells as 2-stage nonlinear integrators](https://www.nature.com/articles/s41467-019-11537-7)
 by Tzilivaki, Kastellakis & Poirazi (2018)
