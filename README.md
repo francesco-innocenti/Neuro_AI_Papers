@@ -239,8 +239,8 @@ the visual cortex.
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ### Artificial & biological neurons
-There is increasing evidence that biological neurons and their dendrites are much more powerful, computationally, than 
-the classic "point neurons" of artificial neural networks. 
+There is increasing evidence that biological neurons and their dendrites are much more powerful computational devices 
+than the classic "point neurons" of artificial neural networks. Much of the work cited here comes from [Poirazi Lab](https://dendrites.gr).
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
@@ -258,16 +258,18 @@ neural networks could increase their computational power and reduce consumption.
 by Gidon et al. (2020)
 
 This study discovered a new type of dendritic spike in human pyramidal neurons located in layer 2/3. These spikes allow 
-neurons to compute the XOR function - a function that only artificial networks with multiple hidden layers can solve. 
-This paper was also picked up by Quanta Magazine:
+neurons to compute the XOR function, a computation that was famously proved to be impossible by Minsky and 
+Papert (1969) for single-layer artificial networks and later shown possible for multilayer networks. This paper was also 
+picked up by Quanta Magazine:
 [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
 (Cepelewicz, 2020).
 
-[Challenging the point neuron dogma: FS basket cells as 2-stage nonlinear integrators](https://www.nature.com/articles/s41467-019-11537-7)
-by Tzilivaki, Kastellakis & Poirazi (2018)
-
 [Pyramidal Neuron as Two-Layer Neural Network](https://www.sciencedirect.com/science/article/pii/S0896627303001491)
 by Poirazi, Brannon & Mel (2003)
+
+This is the first study to demonstrate that neurons are much computationally capable machines than previously thought, 
+showing hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network, with dendrites acting 
+as hidden units and the cell body as the output unit.
 
 ### Nature & nurture
 
