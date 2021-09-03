@@ -47,8 +47,19 @@ that psychology can provide stronger constraints than neuroscience on intelligen
 by Kriegeskorte & Douglas (2018)
 
 This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence
-under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-
-up experiments, and provide a useful classification of the wide variety of models used across these disciplines.
+under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-up 
+experiments, and provide a useful overview of the wide variety of models used across these disciplines.
+
+[The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856)
+by Glaser et al. (2019)
+
+This review discusses four roles that supervised machine learning can play for systems neuroscientists: (i) solve
+engineering problems such as brain-machine interfaces, disease diagnosis and behaviour analysis (ii) identify predictive 
+variables of neural activity and behaviour, (iii) benchmark simple mechanistic, hypothesis-driven models, and (iv) 
+provide computational models (e.g., deep convolutional neural network models of the visual system).
+
+[What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated](https://www.sciencedirect.com/science/article/pii/S1364661316300432)
+by Kumaran, Hassabis & McClelland (2016)
 
 [Computational Foundations of Natural Intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770642/)
 by van Gerven (2017)
@@ -66,8 +77,8 @@ about the brain that have been already used, or otherwise could be used, to powe
 by Helmstaedter (2015)
 
 Focusing on the topic of classification, this perspective outlines how machine learning has helped with the analysis of 
-the  high-dimensional neuroscience datasets (e.g., connectomics), and points to their limitations as a motivation
-for solving the classification tricks of the brain.
+the complex and high-dimensional neuroscience datasets (e.g., connectomics), and points to their limitations as a 
+motivation for solving the classification tricks of the brain.
 
 
 ## Deep learning
@@ -310,7 +321,7 @@ with an unsupervised Hebbian-like rule sequences of patterns continuously and ro
   by Purves et al. (2018)
 * [Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design)
   by Sterling & Laughlin (2017) - this textbook does what few other works have done in neuroscience: extracting design 
-  principles of the brain (though mostly low-level), helping to explain why the brain is much more efficient than computers
+  brain principles (though mostly low-level), helping to explain why the brain computes so efficiently
 * [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems](https://mitpress.mit.edu/books/theoretical-neuroscience)
   by Abbott & Dayan (2005)
 * [The Computational Brain](https://mitpress.mit.edu/books/computational-brain)
