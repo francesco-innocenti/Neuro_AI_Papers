@@ -20,7 +20,8 @@ Hassabis' commentary in [Is the brain a good model for machine intelligence?](ht
 (2012); [What Intelligent Machines Need to Learn From the Neocortex](https://ieeexplore.ieee.org/abstract/document/7934229)
 by Hawkins (2017); [To Advance Artificial Intelligence, Reverse-Engineer the Brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
 by DiCarlo (2018); [The intertwined quest for understanding biological intelligence and creating artificial intelligence](https://neuroscience.stanford.edu/news/intertwined-quest-understanding-biological-intelligence-and-creating-artificial-intelligence)
-by Ganguli (2018); and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
+by Ganguli (2018); [How AI and neuroscience drive each other forwards](https://www.nature.com/articles/d41586-019-02212-4)
+by Savage (2019); and [Using neuroscience to develop artificial intelligence](https://science.sciencemag.org/content/363/6428/692)
 by Ullman (2019). In brief, the brain is the only existing proof of intelligence we have and so it's likely that
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
@@ -139,6 +140,9 @@ insights into task constraints. Generative models are suggested as a promising r
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
+This paper addresses the debate surrounding deep learning as a modelling framework for cognitive science from the 
+perspective of philosophy of science and argues that ...
+
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
 
@@ -160,7 +164,7 @@ across areas and change over development, and (iii) specialised architectures ca
 by Yamins & DiCarlo (2016)
 
 An early, highly cited perspective on modelling the sensory cortex, focused on the visual cortex, by using deep 
-convolutional neural networks trained on similar tasks (i.e., goal-driven).
+convolutional neural networks trained on specific tasks (i.e., goal-driven).
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
@@ -171,9 +175,9 @@ can be seen as the precursor of the deep learning framework (Richards et al., 20
 [From the neuron doctrine to neural networks](https://www.nature.com/articles/nrn3962)
 by Yuste (2015)
 
-"[T]he history of neuroscience is the history of its methods". A historical perspective reflecting on how the neuron 
-doctrine emerged in the context of single-cell (anatomical and physiological) studies and how new multineuronal 
-techniques are leading to the neural network paradigm.
+"[T]he history of neuroscience is the history of its methods" - a historical perspective reflecting on how the neuron 
+doctrine emerged in the context of single-cell studies and how new multineuronal techniques are leading to - in fact, 
+have already led to - the "neural network paradigm".
 
 [Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
 
@@ -241,6 +245,18 @@ by Beniaguev, Segev & London (2021)
 
 See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
 by Whitten (2021) for a non-technical overview of the paper.
+
+[Dendritic action potentials and computation in human layer 2/3 cortical neurons](https://science.sciencemag.org/content/367/6473/83)
+by Gidon et al. (2020)
+
+There is a Quanta Magazine article [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
+by Cepelewicz (2020) for this paper too.
+
+[Challenging the point neuron dogma: FS basket cells as 2-stage nonlinear integrators](https://www.nature.com/articles/s41467-019-11537-7)
+by Tzilivaki, Kastellakis & Poirazi (2018)
+
+[Pyramidal Neuron as Two-Layer Neural Network](https://www.sciencedirect.com/science/article/pii/S0896627303001491)
+by Poirazi, Brannon & Mel (2003)
 
 ### Nature & nurture
 
