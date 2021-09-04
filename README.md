@@ -189,6 +189,15 @@ have already led to - the "neural network paradigm".
 
 [Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
+[The recent excitement about neural networks](https://europepmc.org/article/med/2911347)
+by Crick (1989)
+
+This is a classic commentary wrote by Francis Crick in the middle of the parallel distributed processing or 
+connectionist movement, when the first multilayer neural networks emerged. Crick criticised neural nets as models of the
+brain based on Dale's law (a neuron can be either excitatory or inhibitory but not both) and the biological 
+implausibility of backpropagation and specifically the weight transport problem (i.e., synaptic symmetry in forward and 
+backward connections).
+
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep neural networks in computational 
 neuroscience has focused on vision both because the visual system is one of the most studied and because computer vision 
@@ -241,10 +250,10 @@ by Lillicrap et al. (2020)
 
 This perspective reviews types of algorithms for credit assignment in multilayered networks and how backpropagation 
 (backprop) solves this problem; it outlines the biologically implausible features of backprop including the weight 
-transport problem (i.e., synaptic symmetry in forward and backward connections), the need for signed and possibly 
-extreme-valued error signals, and the fact that feedback in the brain is modulatory. The authors argue that the brain 
-could approximate backprop by computing local differences in neural activities through feedback connections - a 
-framework they call "neural gradient representation by activity differences" (NGRAD).
+transport problem, the need for signed and possibly extreme-valued error signals, and the fact that feedback in the 
+brain is modulatory. The authors argue that the brain could approximate backprop by computing local differences in 
+neural activities through feedback connections - a framework they call "neural gradient representation by activity 
+differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
