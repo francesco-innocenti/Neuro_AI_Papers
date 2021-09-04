@@ -308,8 +308,17 @@ by Hiesinger (2021)
 
 
 ## The Thousand Brains Theory
+The Thousand Brains Theory is a neocortical theory of intelligence developed by Jeff Hawkins and his team at [Numenta](https://numenta.com/),
+a research company dedicated to understanding the neocortex and applying its principles to machine intelligence. The
+theory can be seen as an updated version of Hawkins' "Hierarchical Temporal Memory", which is popularly explained in Hawkins' (2004) 
+first book [On Intelligence](https://numenta.com/resources/on-intelligence/). The resources below are roughly arranged 
+in reverse chronological order, from the most recent, but I'd suggest starting from the last paper to get a better sense
+of how the theory has developed.
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
+by Hawkins (2021)
+
+This is the popular book explaining the theory in non-technical terms.
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 by Hole & Ahmad (2021)
@@ -327,38 +336,39 @@ network named "GridCellNet" can...
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
-This is the technical theoretical paper of the Thousand Brains Theory of Intelligence. The main claim is that every 
-cortical column in every region at every level of the hierarchy learns models of complete objects, physical and abstract.
-This means that the brain creates possibly 1000s models in parallel. They make two additional interesting proposals: (i)
-displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, enable learning 
-the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual ways represent a
-llocentric (object-related) and egocentric (body-related) locations, respectively.
+This is the technical theoretical paper of the Thousand Brains Theory of Intelligence. The key claim is that every 
+cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns models of 
+complete objects, physical and abstract. This means that the brain creates possibly 1000s models in parallel. They make 
+two additional interesting proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together 
+with cortical grid cells, enable learning the hierarchical composition and behaviour of objects; and (ii) the famous 
+"what" and "where" visual pathways represent allocentric (object-related) and egocentric (body-related) locations, 
+respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
 
-Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent object-related locations. 
-This paper proposes that every cortical column learns models of objects in the same way grid cells in the entorhinal 
-cortex learn maps of environments. They show that a two-layer network, including a location layer of cortical grid
-cells and a sensory layer identical to that of the model by Hawkins et al. (2017), can learn and recognise 2-D synthetic
-objects through sensorimotor sequences. They propose a mapping of this network the location and sensory layers onto L6 
-and L4, respectively.
+Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent the location of a sensor in an 
+object's reference frame. This paper proposes that every cortical column learns models of objects in the same way grid 
+cells in the entorhinal cortex learn models of environments. They show that a two-layer network, including a sensory 
+layer and location layer of cortical grid-like cells, can learn and recognise 2-D synthetic objects through sensorimotor 
+sequences. They propose a  mapping of the location and sensory layers to L6 and L4, respectively.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
 
-This paper extends the previous network model of Hawkins & Ahmad (2016). They show that a two-layer cortical column can
-recognise hundreds of synthetic objects with somatic sensations combined with a location signal relative to the object. 
-Crucially, the number of sensations reduces dramatically with multiple columns. 
+This paper extended the network model of Hawkins & Ahmad (2016) with an additional layer computing the location of the 
+sensor relative to the object being sensed, showing that a single cortical column can recognise hundreds of 3-D 
+synthetic objects through sensorimotor sequences. Crucially, the number of sensations decreases dramatically with 
+multiple columns. 
 
 [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 by Hawkins & Ahmad (2016)
 
 This paper shows how thousands of synapses on multiple dendrites allow a neuron to recognise hundreds of independent 
-patterns robustly. They propose a neuron model incorporating the three known dendritic integration zones of pyramidal
-neurons: proximal dendrites providing feedforward input leading to action potentials; and basal and apical dendrites 
-providing predictions leading to depolarisation only. They show that a single-layer network of these neurons can learn 
-with an unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
+patterns robustly. They propose a neuron model where patterns detected on proximal dendrites provide feedforward input 
+leading to action potentials, and patterns detected by basal and apical dendrites provide predictions leading to 
+depolarisation only. They show that a single-layer network of these neurons with local inhibition can learn with an 
+unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
 
 ## Background sources
 
