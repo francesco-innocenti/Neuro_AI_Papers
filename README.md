@@ -207,6 +207,8 @@ by Lindsay (2019)
 
 [Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
 
+[Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003963)
+
 [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
 
 These two papers below are two classic studies comparing the representations of deep convolutional neural networks and 
@@ -235,6 +237,14 @@ the visual cortex.
 ### Backprop in the brain?
 
 [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
+by Lillicrap et al. (2020)
+
+This perspective reviews types of algorithms for credit assignment in multilayered networks and how backpropagation 
+(backprop) solves this problem; it outlines the biologically implausible features of backprop including the weight 
+transport problem (i.e., synaptic symmetry in forward and backward connections), the need for signed and possibly 
+extreme-valued error signals, and the fact that feedback in the brain is modulatory. The authors argue that the brain 
+could approximate backprop by computing local differences in neural activities through feedback connections - a 
+framework they call "neural gradient representation by activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
