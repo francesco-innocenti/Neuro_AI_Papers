@@ -91,7 +91,7 @@ by Richards et al. (2019)
 
 Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
 should focus on the three key design components of artificial neural networks: architectures, learning rules, and
-objective functions.
+objective functions. Neural computations and representations are therefore seen as "emergent" from these properties.
 
 [Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
 by Sinz et al. (2019)
@@ -137,6 +137,9 @@ by Kell & McDermott (2019)
 Another review of deep networks for modelling the sensory cortex, emphasising their use as normative models providing 
 insights into task constraints. Generative models are suggested as a promising research directions.
 
+[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
+by Lillicrap & Kording (2019)
+
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
@@ -152,6 +155,15 @@ the common "black box" objection and argue, first, that understanding can come a
 looking at the design components of these models (e.g., input statistics, architecture, learning rule, etc.), and 
 second, that we can "look inside the box" with what has been called "in silico or synthetic neurophysiology", by for
 example visualising network features.
+
+[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
+by Kay (2018)
+
+This paper reviews models in cognitive neuroscience, their utility, and criteria by which to evaluate them. It 
+highlights a distinction between *functional models*, which attempt to model the input-output transformations performed 
+by a neuron or population of neurons; and *mechanistic models*, which attempt to describe the actual mechanisms 
+responsible for those transformations. It goes on to argue that deep neural networks belong to the former class and that
+therefore we should be careful in the explanation we claim they provide as well as try to better understand them.
 
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 by Marblestone, Wayne & Kording (2016)
@@ -175,24 +187,13 @@ can be seen as the precursor of the deep learning framework (Richards et al., 20
 [From the neuron doctrine to neural networks](https://www.nature.com/articles/nrn3962)
 by Yuste (2015)
 
-"[T]he history of neuroscience is the history of its methods" - a historical perspective reflecting on how the neuron 
-doctrine emerged in the context of single-cell studies and how new multineuronal techniques are leading to - in fact, 
-have already led to - the "neural network paradigm".
+"[T]he history of neuroscience is the history of its methods". This is a historical perspective reflecting on how the 
+neuron doctrine emerged in the context of single-cell studies and how new multineuronal techniques are leading to - and 
+in fact, have already led to - the "neural network paradigm".
 
 [Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
 
 [Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
-
-[What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
-
-[Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
-by Kay (2018)
-
-This paper reviews models in cognitive neuroscience, their utility, and criteria by which to evaluate them. It 
-highlights a distinction between *functional models*, which attempt to model the input-output transformations performed 
-by a neuron or population of neurons; and *mechanistic models*, which attempt to describe the actual mechanisms 
-responsible for those transformations. It goes on to argue that deep neural networks belong to the former class and that
-therefore we should be careful in the explanation we claim they provide as well as try to better understand them.
 
 [Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
@@ -206,15 +207,18 @@ implausibility of backpropagation and specifically the weight transport problem 
 backward connections).
 
 ### Vision
-As clear from the above reviews and perspectives, most research to date on deep neural networks in computational 
-neuroscience has focused on vision both because the visual system is one of the most studied and because computer vision 
-was the first where deep networks proved successful.
+As clear from the above reviews and perspectives, most research to date on deep learning models of the brain has focused 
+on vision, both because the visual system has historically been the most studied and because computer vision was the 
+first domain where deep networks proved remarkably successful.
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
 
-This is a great review covering the origin of CNNs, methods to validate them as models of the visual system, what we can
-learn from them...
+This is a great review covering the origin of CNNs, methods to validate them as models of the visual system using neural 
+and behavioural data, and lessons to be learned by using different datasets, architectures and learning algorithms. It 
+also suggests that we don't have to give up trying to understand neural computation and can gain insights with "in 
+silico neurophysiology" techniques such as feature visualisation and mathematical analysis. Important limitations of 
+CNNs and attempts to make them more biologically faithful are also outlined.
 
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsay (2019)
