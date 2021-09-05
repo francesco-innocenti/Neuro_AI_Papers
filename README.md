@@ -186,6 +186,13 @@ have already led to - the "neural network paradigm".
 [What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
 
 [Principles for models of neural information processing](https://www.sciencedirect.com/science/article/pii/S1053811917306638)
+by Kay (2018)
+
+This paper reviews models in cognitive neuroscience, their utility, and criteria by which to evaluate them. It 
+highlights a distinction between *functional models*, which attempt to model the input-output transformations performed 
+by a neuron or population of neurons; and *mechanistic models*, which attempt to describe the actual mechanisms 
+responsible for those transformations. It goes on to argue that deep neural networks belong to the former class and that
+therefore we should be careful in the explanation we claim they provide as well as try to better understand them.
 
 [Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
@@ -384,6 +391,10 @@ unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
   by Abbott & Dayan (2005)
 * [The Computational Brain](https://mitpress.mit.edu/books/computational-brain)
   by Churchland & Sejnowski (1992)
+* [Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain](https://gracewlindsay.com/2021/02/10/models-of-the-mind-how-physics-engineering-and-mathematics-have-shaped-our-understanding-of-the-brain/)
+  by Lindsay (2021)
+* [The Idea of the Brain: A History](https://www.waterstones.com/book/the-idea-of-the-brain/professor-matthew-cobb/9781781255902)
+  by Cobb (2020)
 * [Brain Computation as Hierarchical Abstraction](https://mitpress.mit.edu/books/brain-computation-hierarchical-abstraction)
   by Ballard (2015)
   
