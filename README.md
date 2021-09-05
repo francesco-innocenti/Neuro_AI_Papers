@@ -7,6 +7,7 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
   * [Audition](#Audition)
+  * [Validation methods](#Validation-methods)
   * [Model benchmarks](#Model-benchmarks)
   * [Backprop in the brain?](#Backprop-in-the-brain?)
   * [Artificial & biological neurons](#Artificial-&-biological-neurons)
@@ -254,6 +255,12 @@ the visual cortex.
 
 [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
 
+### Validation methods
+
+[Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a.html)
+
+[Analyzing biological and artificial neural networks: challenges with opportunities for synergy?](https://www.sciencedirect.com/science/article/pii/S0959438818301569)
+
 ### Backprop in the brain?
 
 [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
@@ -321,10 +328,10 @@ by Hiesinger (2021)
 ## The Thousand Brains Theory
 The Thousand Brains Theory is a neocortical theory of intelligence developed by Jeff Hawkins and his team at [Numenta](https://numenta.com/),
 a research company dedicated to understanding the neocortex and applying its principles to machine intelligence. The
-theory can be seen as an updated version of Hawkins' "Hierarchical Temporal Memory", which is popularly explained in Hawkins' (2004) 
-first book [On Intelligence](https://numenta.com/resources/on-intelligence/). The resources below are roughly arranged 
-in reverse chronological order, from the most recent, but I'd suggest starting from the last paper to get a better sense
-of how the theory has developed.
+theory can be seen as an updated version of Hawkins' "Hierarchical Temporal Memory", which is popularly explained in his 
+first book [On Intelligence](https://numenta.com/resources/on-intelligence/) (2004). The resources below are roughly 
+arranged in reverse chronological order, but I'd suggest starting from the last paper to get a better sense of how the 
+theory has developed.
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 by Hawkins (2021)
@@ -347,22 +354,22 @@ network named "GridCellNet" can...
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
-This is the technical theoretical paper of the Thousand Brains Theory of Intelligence. The key claim is that every 
-cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns models of 
-complete objects, physical and abstract. This means that the brain creates possibly 1000s models in parallel. They make 
-two additional interesting proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together 
-with cortical grid cells, enable learning the hierarchical composition and behaviour of objects; and (ii) the famous 
-"what" and "where" visual pathways represent allocentric (object-related) and egocentric (body-related) locations, 
-respectively.
+This is the technical paper introducing the Thousand Brains Theory of Intelligence. The key claim is that every 
+cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns models based on 
+reference frames of complete objects - or more precisely, of whatever causes its input to change - physical and abstract. 
+This means that the brain creates possibly 1000s models in parallel - hence the name of the theory. They make two 
+additional interesting proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together with 
+cortical grid cells, enable learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" 
+and "where" visual pathways represent allocentric (object-related) and egocentric (body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
 
 Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could represent the location of a sensor in an 
 object's reference frame. This paper proposes that every cortical column learns models of objects in the same way grid 
-cells in the entorhinal cortex learn models of environments. They show that a two-layer network, including a sensory 
-layer and location layer of cortical grid-like cells, can learn and recognise 2-D synthetic objects through sensorimotor 
-sequences. They propose a  mapping of the location and sensory layers to L6 and L4, respectively.
+cells in the entorhinal cortex learn maps or models of environments. They show that a two-layer network, including a 
+sensory layer and location layer of cortical grid-like cells, can learn and recognise 2-D synthetic objects through 
+sensorimotor sequences. They propose a  mapping of the location and sensory layers to L6 and L4, respectively.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
