@@ -141,10 +141,10 @@ insights into task constraints. Generative models are suggested as a promising r
 [What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
 by Lillicrap & Kording (2019)
 
-This paper argues that, like modern artificial neural networks, we should not expect biological networks and their 
-computations to be easily compressible or have any compact description and that we should instead aim at a higher-level 
-of understanding, considering a network's architecture, objective function, and learning rule. As they conclude: 
-"*Instead of asking how the brain works we should, arguably, ask how it learns to work.*" (p. 7).
+This paper argues that, despite efforts to better understand modern artificial neural networks, we should not expect 
+them or biological networks to be easily compressible or have any compact description and that we should instead aim at 
+a higher-level of understanding, considering a network's architecture, objective function, and learning rule. As they 
+conclude: "*Instead of asking how the brain works we should, arguably, ask how it learns to work.*" (p. 7).
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
@@ -244,18 +244,6 @@ the visual cortex.
 
 [Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
 
-#### Model benchmarks
-
-[The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
-
-[Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence](https://www.sciencedirect.com/science/article/pii/S089662732030605X)
-
-[Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://www.biorxiv.org/content/10.1101/407007v2)
-
-[The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z)
-
-[The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
-
 ### Audition
 
 [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
@@ -263,6 +251,21 @@ the visual cortex.
 ### Validation methods
 
 [Analyzing biological and artificial neural networks: challenges with opportunities for synergy?](https://www.sciencedirect.com/science/article/pii/S0959438818301569)
+
+### Model benchmarks
+Taking inspiration from the machine learning community, computational neuroscientists have recently started creating 
+standardised benchmarks and challenges to test and compare computational brain models, though to date they all concern 
+vision.
+
+[Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://www.biorxiv.org/content/10.1101/407007v2)
+
+[The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
+
+[Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence](https://www.sciencedirect.com/science/article/pii/S089662732030605X)
+
+[The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z)
+
+[The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
 
 ### Backprop in the brain?
 
@@ -280,7 +283,7 @@ differences" (NGRAD).
 
 ### Artificial & biological neurons
 There is increasing evidence that biological neurons and their dendrites are much more powerful computing devices than 
-the classic "point neurons" of artificial neural networks. Much of the work comes from [Poirazi Lab](https://dendrites.gr).
+the classic "point neurons" of artificial neural networks. Much of the work in this area comes from [Poirazi Lab](https://dendrites.gr).
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
@@ -313,8 +316,14 @@ as hidden units and the cell body as the output unit.
 
 ### Nature & nurture
 
+[A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6)
+by Zador (2019)
+
 [The Self-Assembling Brain: How Neural Networks Grow Smarter](https://press.princeton.edu/books/hardcover/9780691181226/the-self-assembling-brain)
 by Hiesinger (2021)
+
+[Innateness, AlphaZero, and Artificial Intelligence](http://arxiv.org/abs/1801.05667)
+by Marcus (2018)
 
 
 ## Reinforcement learning
