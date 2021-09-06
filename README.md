@@ -255,6 +255,14 @@ the visual cortex.
 ### Validation methods
 
 [Analyzing biological and artificial neural networks: challenges with opportunities for synergy?](https://www.sciencedirect.com/science/article/pii/S0959438818301569)
+by Barrett, Morcos & Macke (2019)
+
+This paper reviews a number of techniques that can be used to analyse both biological and artificial neural networks, 
+including receptive field analysis, ablation experiments, dimensionality reduction, and (related) representational 
+analysis.
+
+[How can deep learning advance computational modeling of sensory information processing?](http://arxiv.org/abs/1810.08651)
+by Thompson et al. (2018)
 
 ### Model benchmarks
 Taking inspiration from the machine learning community, computational neuroscientists have recently started creating 
@@ -281,7 +289,7 @@ computational brain models, using Brain-Score (Schrimpf et al., 2018) as an exam
 [The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
 by Cichy et al. (2021)
 
-This paper introduces the [Algonauts 2021 Challenge](http://algonauts.csail.mit.edu) (see [Cichy et al., 2019](http://arxiv.org/abs/1905.05675)) for 
+This paper introduces the [Algonauts 2021 Challenge](http://algonauts.csail.mit.edu) (see [Cichy et al., 2019](http://arxiv.org/abs/1905.05675) for 
 the first, 2019 edition), which is to predict fMRI responses of 10 participants to over 1000 short videos of everyday 
 events. See also [The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z) by Cichy, Roig & Oliva 
 (2019) for an overview.
