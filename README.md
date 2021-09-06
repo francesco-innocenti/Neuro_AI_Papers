@@ -141,6 +141,11 @@ insights into task constraints. Generative models are suggested as a promising r
 [What does it mean to understand a neural network?](http://arxiv.org/abs/1907.06374)
 by Lillicrap & Kording (2019)
 
+This paper argues that, like modern artificial neural networks, we should not expect biological networks and their 
+computations to be easily compressible or have any compact description and that we should instead aim at a higher-level 
+of understanding, considering a network's architecture, objective function, and learning rule. As they conclude: 
+"*Instead of asking how the brain works we should, arguably, ask how it learns to work.*" (p. 7).
+
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
@@ -222,7 +227,7 @@ silico neurophysiology" techniques such as feature visualisation and mathematica
 CNNs and attempts to make them more biologically faithful are also outlined.
 
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
-by Lindsay (2019)
+by Lindsey et al. (2019)
 
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
 
@@ -257,8 +262,6 @@ the visual cortex.
 
 ### Validation methods
 
-[Similarity of Neural Network Representations Revisited](http://proceedings.mlr.press/v97/kornblith19a.html)
-
 [Analyzing biological and artificial neural networks: challenges with opportunities for synergy?](https://www.sciencedirect.com/science/article/pii/S0959438818301569)
 
 ### Backprop in the brain?
@@ -276,8 +279,8 @@ differences" (NGRAD).
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ### Artificial & biological neurons
-There is increasing evidence that biological neurons and their dendrites are much more powerful computational devices 
-than the classic "point neurons" of artificial neural networks. Much of the work cited here comes from [Poirazi Lab](https://dendrites.gr).
+There is increasing evidence that biological neurons and their dendrites are much more powerful computing devices than 
+the classic "point neurons" of artificial neural networks. Much of the work comes from [Poirazi Lab](https://dendrites.gr).
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
@@ -336,7 +339,7 @@ theory has developed.
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 by Hawkins (2021)
 
-This is the popular book explaining the theory in non-technical terms.
+This is Hawkins' popular book explaining the theory in non-technical terms.
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 by Hole & Ahmad (2021)
@@ -355,12 +358,13 @@ network named "GridCellNet" can...
 by Hawkins et al. (2019)
 
 This is the technical paper introducing the Thousand Brains Theory of Intelligence. The key claim is that every 
-cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns models based on 
-reference frames of complete objects - or more precisely, of whatever causes its input to change - physical and abstract. 
-This means that the brain creates possibly 1000s models in parallel - hence the name of the theory. They make two 
-additional interesting proposals: (i) displacement cells exist throughout the neocortex (possibly L5) and, together with 
-cortical grid cells, enable learning the hierarchical composition and behaviour of objects; and (ii) the famous "what" 
-and "where" visual pathways represent allocentric (object-related) and egocentric (body-related) locations, respectively.
+cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns predictive models 
+based on reference frames of complete objects - or more precisely, of whatever causes its input to change - physical and 
+abstract. This means that the brain creates possibly 1000s models] of every object it interacts with - hence the name of 
+the theory. They make two additional interesting proposals: (i) displacement cells exist throughout the neocortex 
+(possibly L5) and, together with cortical grid cells, enable learning the hierarchical composition and behaviour of 
+objects; and (ii) the famous "what"and "where" visual pathways represent allocentric (object-related) and egocentric 
+(body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
