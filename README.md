@@ -248,6 +248,10 @@ the visual cortex.
 
 [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
 
+### Somatosensation
+
+[Toward goal-driven neural network models for the rodent whisker-trigeminal system](https://arxiv.org/abs/1706.07555)
+
 ### Validation methods
 
 [Analyzing biological and artificial neural networks: challenges with opportunities for synergy?](https://www.sciencedirect.com/science/article/pii/S0959438818301569)
@@ -258,14 +262,29 @@ standardised benchmarks and challenges to test and compare computational brain m
 vision.
 
 [Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?](https://www.biorxiv.org/content/10.1101/407007v2)
+by Schrimpf et al. (2018)
 
-[The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
+This paper introduces [Brain-Score](https://www.brain-score.org/), a benchmarking platform with neural and behavioural 
+data to test computational models of visual object recognition. The authors also report results of testing a variety of 
+modern ImageNet-trained deep networks on three benchmarks (V4 and IT spiking data in the macaque monkey and human
+behavioural data): (i) DenseNet-169, CORnet-S and ResNet-101 are the best-performing models; (ii) a lot of variance in 
+both neural and behavioural responses remains unexplained; (iii) better ImageNet performance was correlated with 
+Brain-Score, but interestingly, some of the best ImageNet models did not better predict the brain data; and (iv) smaller,
+brain-inspired networks outperformed many of the best ImageNet models.
 
 [Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence](https://www.sciencedirect.com/science/article/pii/S089662732030605X)
+by Schrimpf et al. (2020)
 
-[The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z)
+This paper makes the case for integrative benchmarks (benchmarks including both neural and behavioural data) to test 
+computational brain models, using Brain-Score (Schrimpf et al., 2018) as an example.
 
-[The Algonauts Project: A Platform for Communication between the Sciences of Biological and Artificial Intelligence](http://arxiv.org/abs/1905.05675)
+[The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion](http://arxiv.org/abs/2104.13714)
+by Cichy et al. (2021)
+
+This paper introduces the [Algonauts 2021 Challenge](http://algonauts.csail.mit.edu) (see [Cichy et al., 2019](http://arxiv.org/abs/1905.05675)) for 
+the first, 2019 edition), which is to predict fMRI responses of 10 participants to over 1000 short videos of everyday 
+events. See also [The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z) by Cichy, Roig & Oliva 
+(2019) for an overview.
 
 ### Backprop in the brain?
 
