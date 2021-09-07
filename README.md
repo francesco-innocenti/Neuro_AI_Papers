@@ -306,9 +306,9 @@ to quantify deep learning models on their hierarchical correspondence with the v
 measures, BH is based on both encoding and decoding analyses. The authors also report results of 29 ImageNet-pretrained 
 deep networks on the visual fMRI responses to over 1000 ImageNet images of 3 participants. Interestingly, in line with 
 Schrimpf et al. (2018), there was a strong negative correlation (>0.7) between ImageNet top-1 % accuracy and BH score, 
-with simpler models such as AlexNet and VGGs having the highest scores, and this relationship was confirmed when the models
+with simpler models such as AlexNet and VGGs having the highest scores. This relationship was confirmed when the models
 were fine-tuned on other object recognition datasets. Other notable results were that (i) models with random weights 
-had dramatically decreased BH scores; (ii) models with fully connected layers were the most predictive; and (iii) spike 
+had dramatically decreased BH scores; (ii) models with fully connected layers were the most predictive; and (iii) skip 
 and branch connections did not improve performance.
 
 ### Backprop in the brain?
