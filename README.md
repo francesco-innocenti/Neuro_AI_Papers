@@ -264,6 +264,10 @@ analysis.
 [How can deep learning advance computational modeling of sensory information processing?](http://arxiv.org/abs/1810.08651)
 by Thompson et al. (2018)
 
+[Inception loops discover what excites neurons most using deep predictive models](https://www.nature.com/articles/s41593-019-0517-x)
+
+
+
 ### Model benchmarks
 Taking inspiration from the machine learning community, computational neuroscientists have recently started creating 
 standardised benchmarks and challenges to test and compare computational brain models, though to date they all concern 
@@ -293,6 +297,19 @@ This paper introduces the [Algonauts 2021 Challenge](http://algonauts.csail.mit.
 the first, 2019 edition), which is to predict fMRI responses of 10 participants to over 1000 short videos of everyday 
 events. See also [The Algonauts Project](https://www.nature.com/articles/s42256-019-0127-z) by Cichy, Roig & Oliva 
 (2019) for an overview.
+
+[Brain hierarchy score: Which deep neural networks are hierarchically brain-like?](https://www.sciencedirect.com/science/article/pii/S2589004221009810)
+by Nonaka et al. (2021)
+
+Taking inspiration from the Brain-Score, this paper proposes a new metric called the [brain hierarchy (BH) score](https://github.com/KamitaniLab/BHscore) 
+to quantify deep learning models on their hierarchical correspondence with the visual cortex. In contrast to other 
+measures, BH is based on both encoding and decoding analyses. The authors also report results of 29 ImageNet-pretrained 
+deep networks on the visual fMRI responses to over 1000 ImageNet images of 3 participants. Interestingly, in line with 
+Schrimpf et al. (2018), there was a strong negative correlation (>0.7) between ImageNet top-1 % accuracy and BH score, 
+with simpler models such as AlexNet and VGGs having the highest scores, and this relationship was confirmed when the models
+were fine-tuned on other object recognition datasets. Other notable results were that (i) models with random weights 
+had dramatically decreased BH scores; (ii) models with fully connected layers were the most predictive; and (iii) spike 
+and branch connections did not improve performance.
 
 ### Backprop in the brain?
 
