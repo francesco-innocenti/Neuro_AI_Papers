@@ -229,6 +229,8 @@ CNNs and attempts to make them more biologically faithful are also outlined.
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
 
+[Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
+
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
 
 [Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
@@ -251,6 +253,10 @@ the visual cortex.
 ### Somatosensation
 
 [Toward goal-driven neural network models for the rodent whisker-trigeminal system](https://arxiv.org/abs/1706.07555)
+
+### Motor
+
+[A neural network that finds a naturalistic solution for the production of muscle activity](https://www.nature.com/articles/nn.4042)
 
 ### Validation methods
 
@@ -316,12 +322,12 @@ and branch connections did not improve performance.
 [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
 by Lillicrap et al. (2020)
 
-This perspective reviews types of algorithms for credit assignment in multilayered networks and how backpropagation 
-(backprop) solves this problem; it outlines the biologically implausible features of backprop including the weight 
-transport problem, the need for signed and possibly extreme-valued error signals, and the fact that feedback in the 
-brain is modulatory. The authors argue that the brain could approximate backprop by computing local differences in 
-neural activities through feedback connections - a framework they call "neural gradient representation by activity 
-differences" (NGRAD).
+This perspective reviews how the backpropagation of error algorithm (backprop) optimally solves the credit assignment 
+problem in multilayer artificial neural networks and outlines the biologically implausible features of backprop 
+including the weight transport problem, the need for signed and possibly extreme-valued error signals, and the fact that 
+feedback in the brain is modulatory. The authors argue that the brain could approximate backprop by computing local 
+differences in neural activities through feedback connections - a framework they call "neural gradient representation by 
+activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
