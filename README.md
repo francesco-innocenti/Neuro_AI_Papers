@@ -226,10 +226,16 @@ also suggests that we don't have to give up trying to understand neural computat
 silico neurophysiology" techniques such as feature visualisation and mathematical analysis. Important limitations of 
 CNNs and attempts to make them more biologically faithful are also outlined.
 
+[Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
+by Zhuang et al. (2021)
+
+This paper tested a variety of state-of-the-art unsupervised neural networks, finding contrastive embedding methods such
+as SimCLR to perform as well as and learn similar representations to supervised networks in both transfer learning and 
+prediction of spiking data, including first-person child videos. These models show similar hierarchical correspondence 
+to the ventral visual cortex (higher layers tend to better predict lower visual regions such as IT and vice versa).
+
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
-
-[Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
 
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
 
