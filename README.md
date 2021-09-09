@@ -214,8 +214,8 @@ backward connections).
 
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep learning models of the brain has focused 
-on vision, both because the visual system has historically been the most studied and because computer vision was the 
-first domain where deep networks proved remarkably successful.
+on vision, both because the visual system has historically been the most studied and because it was models in computer
+vision that led to the renaissance of neural networks.
 
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
@@ -255,6 +255,13 @@ the visual cortex.
 ### Audition
 
 [A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy](https://www.sciencedirect.com/science/article/pii/S0896627318302502)
+by Kell et al. (2018)
+
+This paper optimised a deep convolutional neural network to recognise words and music genres, finding that a branched 
+architecture with shared early layers accounted best for both tasks. This network performed similar to human behaviour, 
+making similar mistsakes; predicted human fMRI responses in the auditory cortex better than previous models; and showed 
+a hierarchical correspondence, with the intermediate network layers better predicting primary auditory regions and 
+deeper layers better predicting higher auditory regions.
 
 ### Somatosensation
 
