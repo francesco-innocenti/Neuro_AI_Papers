@@ -7,6 +7,8 @@ a field also known as neuroscience-inspired AI or simply neuro-AI. The papers ar
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
   * [Audition](#Audition)
+  * [Somatosensation](#Somatosensation)
+  * [Motor control](#Motor-control)
   * [Validation methods](#Validation-methods)
   * [Model benchmarks](#Model-benchmarks)
   * [Backprop in the brain?](#Backprop-in-the-brain?)
@@ -273,9 +275,12 @@ neural network architectures to recognise object shape with a 3-D model of the r
 "temporal-spatial" network (integrating over time before over space) and a recurrent neural network with long-range 
 feedback to be the best-performing models.
 
-### Motor
+### Motor control
 
 [A neural network that finds a naturalistic solution for the production of muscle activity](https://www.nature.com/articles/nn.4042)
+by Sussillo et al. (2015)
+
+
 
 ### Validation methods
 
