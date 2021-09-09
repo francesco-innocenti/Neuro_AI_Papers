@@ -259,13 +259,19 @@ by Kell et al. (2018)
 
 This paper optimised a deep convolutional neural network to recognise words and music genres, finding that a branched 
 architecture with shared early layers accounted best for both tasks. This network performed similar to human behaviour, 
-making similar mistsakes; predicted human fMRI responses in the auditory cortex better than previous models; and showed 
+making similar mistakes, predicted human fMRI responses in the auditory cortex better than previous models, and showed 
 a hierarchical correspondence, with the intermediate network layers better predicting primary auditory regions and 
 deeper layers better predicting higher auditory regions.
 
 ### Somatosensation
 
 [Toward goal-driven neural network models for the rodent whisker-trigeminal system](https://arxiv.org/abs/1706.07555)
+by Zhuang et al. (2017)
+
+Following the task-driven approach of Yamins et al. (2014) and Kell et al. (2018), this optimised a variety of deep 
+neural network architectures to recognise object shape with a 3-D model of the rodent whisker system, finding a 
+"temporal-spatial" network (integrating over time before over space) and a recurrent neural network with long-range 
+feedback to be the best-performing models.
 
 ### Motor
 
