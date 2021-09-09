@@ -1,5 +1,5 @@
-# Neuro-AI Papers 🧠💻
-This is a repository for research papers at the intersection between computational neuroscience and machine learning,
+# Neuro-AI repository 🧠💻
+This is a repository for books and papers at the intersection between computational neuroscience and machine learning, 
 a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
 
 * [Motivation](#Motivation)
@@ -34,24 +34,23 @@ we'll make faster progress on general, human-level AI if we try to reverse-engin
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 by Hassabis et al. (2017)
 
-This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between the two fields,
-such the origins of deep learning, recent attention mechanisms and analytic techniques, the authors make a strong
-case for how neuroscience can help guide and accelerate AI research. Neuroscience can also benefit from AI, as
+This is arguably the manifesto for neuro-AI. Reviewing past and present interactions between the two fields, the authors 
+make a strong case for how neuroscience can help guide and accelerate AI research. Neuroscience can also benefit from AI, as
 shown by the success of deep learning models of the visual system.
 
 [Building machines that learn and think like people](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
 by Lake et al. (2017)
 
-This is a highly cited, incredibly comprehensive paper that, drawing from research in cognitive science, argues that 
-general AI should (i) build causal models of the world, (ii) have intuitive physics and psychology, and (iii) be able to 
-learn compositional structure as well as learning to learning. They emphasise probabilistic, Bayesian models and argue 
-that psychology can provide stronger constraints than neuroscience on intelligence.
+This is a highly cited paper that, drawing from research in cognitive science, argues that general AI should (i) build 
+causal models of the world, (ii) have intuitive physics and psychology, and (iii) be able to learn compositional 
+structure as well as learning to learning. They emphasise probabilistic, Bayesian models and argue that psychology can 
+provide stronger constraints than neuroscience on intelligence.
 
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
 by Kriegeskorte & Douglas (2018)
 
-This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence
-under the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-up 
+This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence under 
+the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-up 
 experiments, and provide a useful overview of the wide variety of models used across these disciplines.
 
 [The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856)
@@ -80,8 +79,8 @@ about the brain that have been already used, or otherwise could be used, to powe
 [The Mutual Inspirations of Machine Learning and Neuroscience](https://www.sciencedirect.com/science/article/pii/S089662731500255X)
 by Helmstaedter (2015)
 
-Focusing on the topic of classification, this perspective outlines how machine learning has helped with the analysis of 
-the complex and high-dimensional neuroscience datasets (e.g., connectomics), and points to their limitations as a 
+Focusing on the topic of classification, this perspective reviews how machine learning has helped with the analysis of 
+the complex and high-dimensional neuroscience datasets (e.g., connectomics) and highlights their limitations as a 
 motivation for solving the classification tricks of the brain.
 
 
@@ -100,29 +99,28 @@ objective functions. Neural computations and representations are therefore seen 
 by Sinz et al. (2019)
 
 This perspective reviews some important limitations of modern deep networks especially in object recognition, such as
-poor generalisation, and suggests to focus on inductive biases or constraints inspired by brains at all of Marr's levels
-to make progress: multi-task training at the computational level, co-training on neural data at the algorithmic level, 
-and mimicking network architecture and at the implementation level. This is in line with the "deep learning framework"
-(Richards et al., 2019).
+poor generalisation, and suggests to focus on inductive biases or constraints inspired by brains at all of Marr's levels: 
+multi-task training at the computational level, co-training on neural data at the algorithmic level, and mimicking 
+network architecture and at the implementation level. This is in line with the "deep learning framework" (Richards et 
+al., 2019).
 
 [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
 by Hasson, Nastase & Goldstein (2020)
 
 The authors of this perspective argue that, similar to evolution by natural selection, artificial and biological neural
-networks learn over-parametrised models in an iterative, mindless optimisation process they call "direct fit".
-Contrary to traditional statistical views, over-parametrised models do not always overfit and can allow effective
-generalisation based on interpolation, as opposed to extrapolation, when trained on big real-world data - simply because
-they'll have sampled most of the parameter space and will therefore unlikely need to extrapolate (like a fish will
-unlikely need to venture on earth). Following the above "deep learning framework", they argue that these models are
-fundamentally uninterpretable and we should focus on their design components, just like we tend to focus on the
-ingredients of natural selection.
+networks learn over-parametrised models in an iterative, mindless optimisation process they call "direct fit". Contrary 
+to traditional statistical views, over-parametrised models do not always overfit and can allow effective generalisation 
+based on interpolation, as opposed to extrapolation, when trained on big real-world data - simply because
+they'll have sampled most of the parameter space and will therefore unlikely need to extrapolate. Following the "deep 
+learning framework", they argue that these models are fundamentally uninterpretable and we should focus on their design 
+components, just like we tend to focus on the ingredients of natural selection.
 
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
 
-In contrast to many other perspectives including the above, these authors caution against the view that focusing on deep
-networks in neuroscience means giving up trying to explain neural computation, emphasising that these models should make 
-falsifiable predictions.
+In contrast to many other perspectives, these authors caution against the view that focusing on deep networks in 
+neuroscience means giving up trying to explain neural computation, emphasising that these models should make falsifiable 
+predictions.
 
 [Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
 
@@ -151,16 +149,13 @@ conclude: "*Instead of asking how the brain works we should, arguably, ask how i
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
-This paper addresses the debate surrounding deep learning as a modelling framework for cognitive science from the 
-perspective of philosophy of science and argues that ...
-
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
 
-The authors review the success of deep convolutional neural networks in modelling the visual system, how these models 
-can be validated/tested with both neural and behavioural data across different levels and modalities. They also address 
-the common "black box" objection and argue, first, that understanding can come at a higher level of abstraction, by 
-looking at the design components of these models (e.g., input statistics, architecture, learning rule, etc.), and 
+The authors review the recent success of deep convolutional neural networks in modelling the visual system as well as 
+how these models can be validated on both neural and behavioural data across different levels and modalities. They also 
+address the common "black box" objection and argue, first, that understanding can come at a higher level of abstraction, 
+by looking at the design components of these models (e.g., input statistics, architecture, learning rule, etc.), and 
 second, that we can "look inside the box" with what has been called "in silico or synthetic neurophysiology", by for
 example visualising network features.
 
@@ -171,20 +166,20 @@ This paper reviews models in cognitive neuroscience, their utility, and criteria
 highlights a distinction between *functional models*, which attempt to model the input-output transformations performed 
 by a neuron or population of neurons; and *mechanistic models*, which attempt to describe the actual mechanisms 
 responsible for those transformations. It goes on to argue that deep neural networks belong to the former class and that
-therefore we should be careful in the explanation we claim they provide as well as try to better understand them.
+we should be therefore careful in the explanation we claim they provide as well as try to better understand them.
 
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full)
 by Marblestone, Wayne & Kording (2016)
 
-Another early, comprehensive review encouraging neuro-AI research. The authors put forward three hypothesis about the brain 
-based on machine learning ideas: (i) the brain optimises objective functions, (ii) objective functions are diverse 
-across areas and change over development, and (iii) specialised architectures can solve specific computational problems.
+An comprehensive review focusing on objective functions, putting forward three hypothesis about the brain based on 
+machine learning ideas: (i) the brain optimises objective functions, (ii) objective functions are diverse across areas 
+and change over development, and (iii) specialised architectures can solve specific computational problems.
 
 [Using goal-driven deep learning models to understand sensory cortex](https://www.nature.com/articles/nn.4244)
 by Yamins & DiCarlo (2016)
 
-An early, highly cited perspective on modelling the sensory cortex, focused on the visual cortex, by using deep 
-convolutional neural networks trained on specific tasks (i.e., goal-driven).
+A highly cited perspective on modelling the sensory cortex, focused on the visual cortex, by using deep convolutional 
+neural networks trained on specific tasks (i.e., goal-driven).
 
 [Deep Neural Networks: A New Framework for Modeling Biological Vision and Brain Information Processing](https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035447)
 by Kriegeskorte (2015)
@@ -199,20 +194,20 @@ by Yuste (2015)
 neuron doctrine emerged in the context of single-cell studies and how new multineuronal techniques are leading to - and 
 in fact, have already led to - the "neural network paradigm".
 
+[The recent excitement about neural networks](https://europepmc.org/article/med/2911347)
+by Crick (1989)
+
+This is a classic commentary  by Francis Crick, wrote in the midst of the parallel distributed processing or 
+connectionist movement, when the first multilayer neural networks emerged. Crick criticised neural nets as models of the
+brain based on Dale's law (a neuron can be either excitatory or inhibitory but not both) and the biological 
+implausibility of backpropagation, specifically the weight transport problem (i.e., synaptic symmetry in forward and 
+backward connections).
+
 [Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
 
 [Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
 
 [Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
-
-[The recent excitement about neural networks](https://europepmc.org/article/med/2911347)
-by Crick (1989)
-
-This is a classic commentary wrote by Francis Crick in the middle of the parallel distributed processing or 
-connectionist movement, when the first multilayer neural networks emerged. Crick criticised neural nets as models of the
-brain based on Dale's law (a neuron can be either excitatory or inhibitory but not both) and the biological 
-implausibility of backpropagation and specifically the weight transport problem (i.e., synaptic symmetry in forward and 
-backward connections).
 
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep learning models of the brain has focused 
@@ -232,9 +227,9 @@ CNNs and attempts to make them more biologically faithful are also outlined.
 by Zhuang et al. (2021)
 
 This paper tested a variety of state-of-the-art unsupervised neural networks, finding contrastive embedding methods such
-as SimCLR to perform as well as and learn similar representations to supervised networks in both transfer learning and 
-prediction of spiking data, including first-person child videos. These models show similar hierarchical correspondence 
-to the ventral visual cortex (higher layers tend to better predict lower visual regions such as IT and vice versa).
+as SimCLR to perform as well as supervised networks in both transfer learning and prediction of spiking data, including 
+first-person child videos. These models show similar hierarchical correspondence to the ventral visual cortex (early 
+layers better predict lower regions such as V1 and deeper layers better predict higher regions such as IT).
 
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
@@ -259,10 +254,10 @@ Two classic studies comparing the representations of deep convolutional neural n
 by Kell et al. (2018)
 
 This paper optimised a deep convolutional neural network to recognise words and music genres, finding that a branched 
-architecture with shared early layers accounted best for both tasks. The network performed similar to human behaviour, 
-making similar mistakes, predicted human fMRI responses in the auditory cortex better than previous models, and showed 
-a hierarchical correspondence, with the intermediate network layers better predicting primary regions and deeper layers 
-better predicting higher regions.
+architecture with shared early layers accounted best for both tasks. The network performed similar to human behaviour 
+and made similar mistakes, predicted human fMRI responses in the auditory cortex better than previous models, and showed 
+a hierarchical correspondence, with the intermediate layers better predicting primary regions and deeper layers better 
+predicting higher regions.
 
 ### Somatosensation
 
@@ -279,8 +274,8 @@ feedback to be the best-performing models.
 [A neural network that finds a naturalistic solution for the production of muscle activity](https://www.nature.com/articles/nn.4042)
 by Sussillo et al. (2015)
 
-Further demonstrating the utility of the goal-driven approach, this paper optimised families of recurrent neural 
-networks to reproduce the motor outputs of monkeys performing a reaching task, finding that a regularised (but not 
+Further demonstrating the utility of the goal-driven approach, this paper optimised recurrent neural networks to 
+reproduce the muscle activity of monkeys doing a reaching task, finding that a regularised (and notably, not a 
 non-regularised) model learned similar dynamics to the motor cortex at both the single-neuron and population levels.
 
 ### Validation methods
@@ -297,10 +292,8 @@ by Thompson et al. (2018)
 
 [Inception loops discover what excites neurons most using deep predictive models](https://www.nature.com/articles/s41593-019-0517-x)
 
-
-
 ### Model benchmarks
-Taking inspiration from the machine learning community, computational neuroscientists have recently started creating 
+Taking inspiration from the machine learning community, computational neuroscientists have recently started developing 
 standardised benchmarks and challenges to test and compare computational brain models, though to date they all concern 
 vision.
 
@@ -310,9 +303,9 @@ by Schrimpf et al. (2018)
 This paper introduces [Brain-Score](https://www.brain-score.org/), a benchmarking platform with neural and behavioural 
 data to test computational models of visual object recognition. The authors also report results of testing a variety of 
 modern ImageNet-trained deep networks on three benchmarks (V4 and IT spiking data in the macaque monkey and human
-behavioural data): (i) DenseNet-169, CORnet-S and ResNet-101 are the best-performing models; (ii) a lot of variance in 
+behavioural data): (i) DenseNet-169, CORnet-S and ResNet-101 were the best-performing models; (ii) a lot of variance in 
 both neural and behavioural responses remains unexplained; (iii) better ImageNet performance was correlated with 
-Brain-Score, but interestingly, some of the best ImageNet models did not better predict the brain data; and (iv) smaller,
+Brain-Score, but interestingly, some of the best ImageNet models did not better predict brain data; and (iv) smaller,
 brain-inspired networks outperformed many of the best ImageNet models.
 
 [Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence](https://www.sciencedirect.com/science/article/pii/S089662732030605X)
@@ -336,8 +329,8 @@ Taking inspiration from the Brain-Score, this paper proposes a new metric called
 to quantify deep learning models on their hierarchical correspondence with the visual cortex. In contrast to other 
 measures, BH is based on both encoding and decoding analyses. The authors also report results of 29 ImageNet-pretrained 
 deep networks on the visual fMRI responses to over 1000 ImageNet images of 3 participants. Interestingly, in line with 
-Schrimpf et al. (2018), there was a strong negative correlation (>0.7) between ImageNet top-1 % accuracy and BH score, 
-with simpler models such as AlexNet and VGGs having the highest scores. This relationship was confirmed when the models
+Schrimpf et al. (2018), there was a strong negative correlation between ImageNet top-1 % accuracy and BH score, with 
+simpler models such as AlexNet and VGGs having the highest scores. This relationship was confirmed when the models
 were fine-tuned on other object recognition datasets. Other notable results were that (i) models with random weights 
 had dramatically decreased BH scores; (ii) models with fully connected layers were the most predictive; and (iii) skip 
 and branch connections did not improve performance.
@@ -357,7 +350,7 @@ activity differences" (NGRAD).
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ### Artificial & biological neurons
-There is increasing evidence that biological neurons and their dendrites are much more powerful computing devices than 
+There is increasing evidence that biological neurons and their dendrites are much more powerful computing machines than 
 the classic "point neurons" of artificial neural networks. Much of the work in this area comes from [Poirazi Lab](https://dendrites.gr).
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
@@ -375,7 +368,7 @@ neural networks could increase their computational power and reduce consumption.
 [Dendritic action potentials and computation in human layer 2/3 cortical neurons](https://science.sciencemag.org/content/367/6473/83)
 by Gidon et al. (2020)
 
-This study discovered a new type of dendritic spike in human pyramidal neurons located in layer 2/3. These spikes allow 
+This study discovered a new type of dendritic spike in human L2/3 pyramidal neurons located. These spikes allow 
 neurons to compute the XOR function, a computation that was famously proved to be impossible by Minsky and 
 Papert (1969) for single-layer artificial networks and later shown possible for multilayer networks. This paper was also 
 picked up by Quanta Magazine:
@@ -386,8 +379,8 @@ picked up by Quanta Magazine:
 by Poirazi, Brannon & Mel (2003)
 
 This is the first study to demonstrate that neurons are much computationally capable machines than previously thought, 
-showing hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network, with dendrites acting 
-as hidden units and the cell body as the output unit.
+showing that hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network with dendrites 
+acting as hidden units and the cell body as the output unit.
 
 ### Nature & nurture
 
@@ -415,10 +408,10 @@ by Marcus (2018)
 ## The Thousand Brains Theory
 The Thousand Brains Theory is a neocortical theory of intelligence developed by Jeff Hawkins and his team at [Numenta](https://numenta.com/),
 a research company dedicated to understanding the neocortex and applying its principles to machine intelligence. The
-theory can be seen as an updated version of Hawkins' "Hierarchical Temporal Memory", which is popularly explained in his 
-first book [On Intelligence](https://numenta.com/resources/on-intelligence/) (2004). The resources below are roughly 
-arranged in reverse chronological order, but I'd suggest starting from the last paper to get a better sense of how the 
-theory has developed.
+theory can be seen as an updated version of Hawkins' "Hierarchical Temporal Memory", popularly explained in his first 
+book [On Intelligence](https://numenta.com/resources/on-intelligence/) (2004). The resources below are roughly arranged 
+in reverse chronological order, but I'd suggest starting from the last paper to get a better sense of how the theory has 
+developed.
 
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 by Hawkins (2021)
@@ -428,27 +421,25 @@ This is Hawkins' popular book explaining the theory in non-technical terms.
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 by Hole & Ahmad (2021)
 
-A high-level article that advocates for neuro-AI research, focusing on the Thousand Brains Theory. It emphasises the 
-importance of sparse representations, more biologically realistic neuron models, and the idea of reference frames, 
-continuous online learning, sensorimotor integration, among other things.
+Focusing on the Thousand Brains Theory, this article emphasises the importance of sparse representations, more 
+biologically realistic neuron models, the idea of reference frames, continuous online learning, and sensorimotor 
+processing.
 
 [Grid Cell Path Integration For Movement-Based Visual Object Recognition](http://arxiv.org/abs/2102.09076)
 by Leadholm, Lewis & Ahmad (2021)
 
-This is a very interesting paper further extending the model of Lewis et al. (2019). They show that a similar two-layer 
-network named "GridCellNet" can...
+An interesting paper further extending the model of Lewis et al. (2019).
 
 [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 by Hawkins et al. (2019)
 
 This is the technical paper introducing the Thousand Brains Theory of Intelligence. The key claim is that every 
-cortical column in every region at every level of the hierarchy (or more precisely, heterarchy) learns predictive models 
-based on reference frames of complete objects - or more precisely, of whatever causes its input to change - physical and 
-abstract. This means that the brain creates possibly 1000s models] of every object it interacts with - hence the name of 
-the theory. They make two additional interesting proposals: (i) displacement cells exist throughout the neocortex 
-(possibly L5) and, together with cortical grid cells, enable learning the hierarchical composition and behaviour of 
-objects; and (ii) the famous "what"and "where" visual pathways represent allocentric (object-related) and egocentric 
-(body-related) locations, respectively.
+cortical column learns predictive models based on reference frames of complete objects - or more precisely, of whatever 
+causes its input to change - physical and abstract. This means that the brain creates possibly 1000s models] of every 
+object it interacts with - hence the name of the theory. They make two additional interesting proposals: (i) 
+displacement cells exist throughout the neocortex (possibly L5) and, together with cortical grid cells, enable learning 
+the hierarchical composition and behaviour of objects; and (ii) the famous "what" and "where" visual pathways represent 
+allocentric (object-related) and egocentric (body-related) locations, respectively.
 
 [Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells](https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full)
 by Lewis et al. (2019)
@@ -457,7 +448,7 @@ Hawkins, Ahmad & Cui (2017) did not address how cells in the neocortex could rep
 object's reference frame. This paper proposes that every cortical column learns models of objects in the same way grid 
 cells in the entorhinal cortex learn maps or models of environments. They show that a two-layer network, including a 
 sensory layer and location layer of cortical grid-like cells, can learn and recognise 2-D synthetic objects through 
-sensorimotor sequences. They propose a  mapping of the location and sensory layers to L6 and L4, respectively.
+sensorimotor sequences. They propose a mapping of the location and sensory layers to L6 and L4, respectively.
 
 [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neural_Circuits&id=295079)
 by Hawkins, Ahmad & Cui (2017)
@@ -501,7 +492,7 @@ unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu)
   by Russell & Norvig (2020) - the equivalent bible of AI
 * [Deep Learning for AI](https://dl.acm.org/doi/10.1145/3448250)
-  by Hinton, Bengio & LeCun (2021) - the most recent survey of deep learning including a summary video
+  by Hinton, Bengio & LeCun (2021) - the most recent survey of deep learning
 * [Deep Learning](https://www.deeplearningbook.org/)
   by Goodfellow et al. (2016)
 * [The Deep Learning Revolution](https://mitpress.mit.edu/books/deep-learning-revolution)
