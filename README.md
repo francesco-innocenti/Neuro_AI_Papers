@@ -247,8 +247,7 @@ by Lindsey et al. (2019)
 
 [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
 
-These two papers below are two classic studies comparing the representations of deep convolutional neural networks and 
-the visual cortex.
+Two classic studies comparing the representations of deep convolutional neural networks and the visual cortex.
 
 [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
 
@@ -260,17 +259,17 @@ the visual cortex.
 by Kell et al. (2018)
 
 This paper optimised a deep convolutional neural network to recognise words and music genres, finding that a branched 
-architecture with shared early layers accounted best for both tasks. This network performed similar to human behaviour, 
+architecture with shared early layers accounted best for both tasks. The network performed similar to human behaviour, 
 making similar mistakes, predicted human fMRI responses in the auditory cortex better than previous models, and showed 
-a hierarchical correspondence, with the intermediate network layers better predicting primary auditory regions and 
-deeper layers better predicting higher auditory regions.
+a hierarchical correspondence, with the intermediate network layers better predicting primary regions and deeper layers 
+better predicting higher regions.
 
 ### Somatosensation
 
 [Toward goal-driven neural network models for the rodent whisker-trigeminal system](https://arxiv.org/abs/1706.07555)
 by Zhuang et al. (2017)
 
-Following the task-driven approach of Yamins et al. (2014) and Kell et al. (2018), this optimised a variety of deep 
+Following the task-driven approach of Yamins et al. (2014) and Kell et al. (2018), this study optimised a variety of deep 
 neural network architectures to recognise object shape with a 3-D model of the rodent whisker system, finding a 
 "temporal-spatial" network (integrating over time before over space) and a recurrent neural network with long-range 
 feedback to be the best-performing models.
@@ -280,7 +279,9 @@ feedback to be the best-performing models.
 [A neural network that finds a naturalistic solution for the production of muscle activity](https://www.nature.com/articles/nn.4042)
 by Sussillo et al. (2015)
 
-
+Further demonstrating the utility of the goal-driven approach, this paper optimised families of recurrent neural 
+networks to reproduce the motor outputs of monkeys performing a reaching task, finding that a regularised (but not 
+non-regularised) model learned similar dynamics to the motor cortex at both the single-neuron and population levels.
 
 ### Validation methods
 
