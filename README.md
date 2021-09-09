@@ -1,6 +1,7 @@
-# Neuro-AI repository 🧠💻
-This is a repository for books and papers at the intersection between computational neuroscience and machine learning, 
-a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following sections:
+# Neuro-AI papers 🧠💻
+This is a repository for mostly research papers at the intersection between computational neuroscience and machine 
+learning, a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following 
+sections:
 
 * [Motivation](#Motivation)
 * [Deep learning](#Deep-learning)
