@@ -14,6 +14,7 @@ sections:
   * [Model benchmarks](#Model-benchmarks)
   * [Backprop in the brain?](#Backprop-in-the-brain?)
   * [Artificial & biological neurons](#Artificial-&-biological-neurons)
+  * [Spiking neural networks](#Spiking-neural-networks)
   * [Nature & nurture](#Nature-&-nurture)
 * [Reinforcement learning](#Reinforcement-learning)
 * [The Thousand Brains Theory](#The-Thousand-Brains-Theory)
@@ -382,6 +383,13 @@ by Poirazi, Brannon & Mel (2003)
 This is the first study to demonstrate that neurons are much computationally capable machines than previously thought, 
 showing that hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network with dendrites 
 acting as hidden units and the cell body as the output unit.
+
+### Spiking neural networks
+
+[Deep learning in spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018303332)
+by Ghodrati et al. (2019)
+
+This paper reviews supervised and supervised approaches to training deep spiking neural networks.
 
 ### Nature & nurture
 
