@@ -292,7 +292,28 @@ analysis.
 [How can deep learning advance computational modeling of sensory information processing?](http://arxiv.org/abs/1810.08651)
 by Thompson et al. (2018)
 
+### Closed-loop experiments
+
+[Neural population control via deep image synthesis](https://science.sciencemag.org/content/364/6439/eaav9436)
+by Bashivan, Kar & DiCarlo (2019)
+
+In probably the first closed-loop experiment using deep neural networks, this study trained a deep convolutional neural
+network to predict microelectrode population responses (>100 neurons) in macaque V4 to hundreds of natural images and 
+more complex stimuli known to drive V4 activity.
+
+[Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences](https://www.sciencedirect.com/science/article/pii/S0092867419303915)
+by Ponce et al. (2019)
+
+
 [Inception loops discover what excites neurons most using deep predictive models](https://www.nature.com/articles/s41593-019-0517-x)
+by Walker et al. (2019)
+
+This study trained a custom deep convolutional neural network to predict the optical population responses (>2000 neurons) 
+in mouse V1 to thousands of natural images. The model could predict held-out neural responses with high accuracy. The 
+researchers then optimised images to maximally activate particular artificial neurons (a technique called activity 
+maximisation). Interestingly, the generated most exciting inputs (MEIs), which were confirmed to occur in natural images, 
+were strikingly different from the standard Gabor-like filters thought to characterise V1 and, when presented back to 
+the same neurons, produced significantly stronger response than control stimuli.
 
 ### Model benchmarks
 Taking inspiration from the machine learning community, computational neuroscientists have recently started developing 
