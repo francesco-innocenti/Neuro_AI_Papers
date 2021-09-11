@@ -382,7 +382,12 @@ the classic "point neurons" of artificial neural networks. Much of the work in t
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
 
-See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+This study attempted to characterise the computational complexity of a cortical neuron, finding that a deep neural 
+network with 5 to 8 hidden layers was necessary to predict with high accuracy the function (spiking and somatic 
+subthreshold membrane potential) of a highly realistic, compartmental model of a L5 pyramidal neuron (with basal, 
+oblique and apical dendrites). Interestingly, the same model without the NMDA synapses could be accurately reproduced by 
+a much shallower fully connected network with one layer. Further analyses showed that dendritic branches acted as 
+spatiotemporal pattern detectors. See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
 by Whitten (2021) for a non-technical overview of the paper.
 
 [Drawing inspiration from biological dendrites to empower artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0959438821000544)
