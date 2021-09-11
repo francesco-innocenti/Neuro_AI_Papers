@@ -366,11 +366,14 @@ by Lillicrap et al. (2020)
 This perspective reviews how the backpropagation of error algorithm (backprop) optimally solves the credit assignment 
 problem in multilayer artificial neural networks and outlines the biologically implausible features of backprop 
 including the weight transport problem, the need for signed and possibly extreme-valued error signals, and the fact that 
-feedback in the brain is modulatory. The authors argue that the brain could approximate backprop by computing local 
-differences in neural activities through feedback connections - a framework they call "neural gradient representation by 
-activity differences" (NGRAD).
+feedback in the brain is can drive neural activity. The authors argue that the brain could approximate backprop by 
+computing local differences in neural activities through feedback connections - a framework they call "neural gradient 
+representation by activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
+
+[Can the Brain Do Backpropagation? —Exact Implementation of Backpropagation in Predictive Coding Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610561/)
+by Song et al. (2020)
 
 ### Artificial & biological neurons
 There is increasing evidence that biological neurons and their dendrites are much more powerful computing machines than 
@@ -401,9 +404,9 @@ picked up by Quanta Magazine:
 [Pyramidal Neuron as Two-Layer Neural Network](https://www.sciencedirect.com/science/article/pii/S0896627303001491)
 by Poirazi, Brannon & Mel (2003)
 
-This is the first study to demonstrate that neurons are much computationally capable machines than previously thought, 
-showing that hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network with dendrites 
-acting as hidden units and the cell body as the output unit.
+This is the first study to demonstrate that neurons are computationally much more capable machines than previously 
+thought, showing that hippocampal pyramidal neurons could be modelled as a two-layer artificial neural network with 
+dendrites as hidden units and the soma as the output unit.
 
 ### Spiking neural networks
 
