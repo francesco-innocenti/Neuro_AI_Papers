@@ -372,6 +372,13 @@ representation by activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
+[Control of synaptic plasticity in deep cortical networks](https://www.nature.com/articles/nrn.2018.6)
+by Roelfsema & Holtmaat (2018)
+
+Focusing on reinforcement learning, this paper argues that a combination of feedback connections and neuromodulation 
+could solve the credit assignment problem in the brain. See also [Reply to ‘Can neocortical feedback alter the sign of plasticity?’](https://www.nature.com/articles/s41583-018-0048-6)
+by the same authors.
+
 [Can the Brain Do Backpropagation? —Exact Implementation of Backpropagation in Predictive Coding Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610561/)
 by Song et al. (2020)
 
@@ -389,7 +396,7 @@ and somatic subthreshold membrane potential) of a highly realistic, compartmenta
 basal, oblique and apical dendrites). Interestingly, the same model without NMDA synapses could be accurately reproduced 
 by a much shallower fully connected network with one layer. Further analyses showed that dendritic branches acted as 
 spatiotemporal pattern detectors. See this Quanta Magazine article [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
-by Whitten (2021) for a non-technical overview of the paper.
+by Whitten (2021) for an overview of the paper.
 
 [Drawing inspiration from biological dendrites to empower artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0959438821000544)
 by Chavlis & Poirazi (2021)
@@ -514,7 +521,7 @@ unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
 * [Neuroscience](https://global.oup.com/ushe/product/neuroscience-9781605353807%3Fq%3Dneuroscience%26lang%3Den%26cc%3Dus)
   by Purves et al. (2018)
 * [Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design)
-  by Sterling & Laughlin (2017) - this textbook does what few other works have done in neuroscience: extracting design 
+  by Sterling & Laughlin (2017) - this textbook does what few other works in neuroscience have done: extracting design 
   brain principles (though mostly low-level), helping to explain why the brain computes so efficiently
 * [Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems](https://mitpress.mit.edu/books/theoretical-neuroscience)
   by Abbott & Dayan (2005)
