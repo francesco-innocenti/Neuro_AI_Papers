@@ -45,7 +45,7 @@ by Lake et al. (2017)
 
 This is a highly cited paper that, drawing from research in cognitive science, argues that general AI should (i) build 
 causal models of the world, (ii) have intuitive physics and psychology, and (iii) be able to learn compositional 
-structure as well as learning to learning. They emphasise probabilistic, Bayesian models and argue that psychology can 
+structure as well as "learn to learn". They emphasise probabilistic, Bayesian models and argue that psychology can 
 provide stronger constraints than neuroscience on intelligence.
 
 [Cognitive computational neuroscience](https://www.nature.com/articles/s41593-018-0210-5)
@@ -244,11 +244,17 @@ by Lindsey et al. (2019)
 
 [Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream](https://www.jneurosci.org/content/35/27/10005.short)
 
-Two classic studies comparing the representations of deep convolutional neural networks and the visual cortex.
+[Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
+by Khaligh-Razavi & Kriegeskorte (2014)
 
 [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
+by Yamins et al. (2014)
 
-[Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
+One of the first (if not the first) studies demonstration of deep convolutional neural networks as models of the visual
+system, showing that models with higher object recognition accuracy (i.e., performance-optimised) were better at 
+predicting spiking macaque responses in IT to natural images and that the output layer of an optimised network better 
+predicted IT activity at both the population and unit level whereas intermediate layers were more predictive of V4 
+responses.
 
 ### Audition
 
@@ -442,9 +448,10 @@ by Marcus (2018)
 
 ## Reinforcement learning
 
-[A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
-
 [Deep Reinforcement Learning and Its Neuroscientific Implications](http://www.sciencedirect.com/science/article/pii/S0896627320304682)
+by Botvinick et al. (2020)
+
+[A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
 
 [Reinforcement Learning, Fast and Slow](https://www.sciencedirect.com/science/article/pii/S1364661319300610)
 
