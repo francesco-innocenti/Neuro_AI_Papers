@@ -250,11 +250,10 @@ by Khaligh-Razavi & Kriegeskorte (2014)
 [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
 by Yamins et al. (2014)
 
-One of the first (if not the first) studies demonstration of deep convolutional neural networks as models of the visual
-system, showing that models with higher object recognition accuracy (i.e., performance-optimised) were better at 
-predicting spiking macaque responses in IT to natural images and that the output layer of an optimised network better 
-predicted IT activity at both the population and unit level whereas intermediate layers were more predictive of V4 
-responses.
+One of the first (if not the first) demonstration of deep convolutional neural networks as models of the visual system, 
+showing that models with higher object recognition accuracy were better at predicting spiking macaque IT responses to 
+natural images, and that the output layer of an optimised network better predicted IT activity at both the population 
+and unit level whereas intermediate layers were more predictive of V4 responses.
 
 ### Audition
 
