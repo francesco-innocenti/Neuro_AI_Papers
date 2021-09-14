@@ -371,8 +371,8 @@ by Lillicrap et al. (2020)
 This perspective reviews how the backpropagation of error algorithm (backprop) optimally solves the credit assignment 
 problem in multilayer artificial neural networks and outlines the biologically implausible features of backprop 
 including the weight transport problem, the need for signed and possibly extreme-valued error signals, and the fact that 
-feedback in the brain is can drive neural activity. The authors argue that the brain could approximate backprop by 
-computing local differences in neural activities through feedback connections - a framework they call "neural gradient 
+feedback in the brain can modulate and drive neural activity. The authors argue that the brain could approximate backprop 
+by computing local differences in neural activities through feedback connections - a framework they call "neural gradient 
 representation by activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
