@@ -97,14 +97,19 @@ Including more than 30 neuroscientists and AI researchers, this perspective argu
 should focus on the three key design components of artificial neural networks: architectures, learning rules, and
 objective functions. Neural computations and representations are therefore seen as "emergent" from these properties.
 
-[Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
-by Sinz et al. (2019)
+[If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
+by Saxe, Nelli & Summerfield (2021)
 
-This perspective reviews some important limitations of modern deep networks especially in object recognition, such as
-poor generalisation, and suggests to focus on inductive biases or constraints inspired by brains at all of Marr's levels: 
-multi-task training at the computational level, co-training on neural data at the algorithmic level, and mimicking 
-network architecture and at the implementation level. This is in line with the "deep learning framework" (Richards et 
-al., 2019).
+In contrast to many other perspectives, these authors caution against the view that focusing on deep networks in 
+neuroscience means giving up trying to explain neural computation, emphasising that these models should make falsifiable 
+predictions.
+
+[Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
+by Pulvermüller et al. (2021)
+
+A broadly scoped review of networks used to model brain function including (but not limited to) deep neural networks, 
+with a focus on cognition, arguing for more biologically constrained models across different spatial and temporal scales, 
+including more realistic neuron models, learning rules, inhibition and anatomical structure.
 
 [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](http://www.sciencedirect.com/science/article/pii/S089662731931044X)
 by Hasson, Nastase & Goldstein (2020)
@@ -117,14 +122,14 @@ they'll have sampled most of the parameter space and will therefore unlikely nee
 learning framework", they argue that these models are fundamentally uninterpretable and we should focus on their design 
 components, just like we tend to focus on the ingredients of natural selection.
 
-[If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
-by Saxe, Nelli & Summerfield (2021)
+[Engineering a Less Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627319307408)
+by Sinz et al. (2019)
 
-In contrast to many other perspectives, these authors caution against the view that focusing on deep networks in 
-neuroscience means giving up trying to explain neural computation, emphasising that these models should make falsifiable 
-predictions.
-
-[Biological constraints on neural network models of cognitive function](https://www.nature.com/articles/s41583-021-00473-5)
+This perspective reviews some important limitations of modern deep networks especially in object recognition, such as
+poor generalisation, and suggests to focus on inductive biases or constraints inspired by brains at all of Marr's levels: 
+multi-task training at the computational level, co-training on neural data at the algorithmic level, and mimicking 
+network architecture and at the implementation level. This is in line with the "deep learning framework" (Richards et 
+al., 2019).
 
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
