@@ -481,7 +481,7 @@ developed.
 [A Thousand Brains: A New Theory of Intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 by Hawkins (2021)
 
-This is Hawkins' popular book explaining the theory in non-technical terms.
+This is Hawkins' popular book explaining the theory in non-technical terms, including its implications for AI.
 
 [A thousand brains: toward biologically constrained AI](https://doi.org/10.1007/s42452-021-04715-0)
 by Hole & Ahmad (2021)
