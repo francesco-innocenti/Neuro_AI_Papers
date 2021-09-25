@@ -221,6 +221,12 @@ As clear from the above reviews and perspectives, most research to date on deep 
 on vision, both because the visual system has historically been the most studied and because it was models in computer
 vision that led to the renaissance of neural networks.
 
+[Capturing the objects of vision with neural networks](https://www.nature.com/articles/s41562-021-01194-6)
+by Peters & Kriegeskorte (2021)
+
+A review of the cognitive science and neural network models of visual object representations, focusing on constraints 
+and tasks to improve these models.
+
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
 
@@ -251,6 +257,8 @@ by Lindsey et al. (2019)
 
 [Deep Supervised, but Not Unsupervised, Models May Explain IT Cortical Representation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915)
 by Khaligh-Razavi & Kriegeskorte (2014)
+
+
 
 [Performance-optimized hierarchical models predict neural responses in higher visual cortex](https://www.pnas.org/content/111/23/8619)
 by Yamins et al. (2014)
