@@ -390,6 +390,9 @@ representation by activity differences" (NGRAD).
 
 [Artificial Neural Nets Finally Yield Clues to How Brains Learn](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
+[Dendritic solutions to the credit assignment problem](https://www.sciencedirect.com/science/article/pii/S0959438818300485)
+by Richards & Lillicrap (2019)
+
 [Control of synaptic plasticity in deep cortical networks](https://www.nature.com/articles/nrn.2018.6)
 by Roelfsema & Holtmaat (2018)
 
