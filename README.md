@@ -378,6 +378,9 @@ and branch connections did not improve performance.
 
 ### Backprop in the brain?
 
+[Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits](https://www.nature.com/articles/s41593-021-00857-x)
+by Payeur et al. (2021)
+
 [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
 by Lillicrap et al. (2020)
 
@@ -423,17 +426,16 @@ by Whitten (2021) for an overview of the paper.
 [Drawing inspiration from biological dendrites to empower artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0959438821000544)
 by Chavlis & Poirazi (2021)
 
-This opinion piece reviews certain properties of dendrites and argues that incorporating these properties in artificial 
-neural networks could increase their computational power and reduce consumption.
+This paper argues that incorporating properties of dendrites including compartmentalisation, active mechanisms and 
+multi-scale learning rules in artificial neural networks could increase computational power and reduce consumption.
 
 [Dendritic action potentials and computation in human layer 2/3 cortical neurons](https://science.sciencemag.org/content/367/6473/83)
 by Gidon et al. (2020)
 
-This study discovered a new type of dendritic spike in human L2/3 pyramidal neurons located. These spikes allow 
-neurons to compute the XOR function, a computation that was famously proved to be impossible by Minsky and 
-Papert (1969) for single-layer artificial networks and later shown possible for multilayer networks. This paper was also 
-picked up by Quanta Magazine:
-[Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
+This study discovered a new type of dendritic spike in human L2/3 pyramidal neurons. These spikes allow neurons to 
+compute the XOR function, a computation that was famously proved to be impossible by Minsky and Papert (1969) for 
+single-layer artificial networks and later shown possible for multilayer networks. This paper was also picked up by 
+Quanta Magazine:[Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
 (Cepelewicz, 2020).
 
 [Pyramidal Neuron as Two-Layer Neural Network](https://www.sciencedirect.com/science/article/pii/S0896627303001491)
