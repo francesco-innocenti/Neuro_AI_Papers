@@ -405,8 +405,9 @@ by Song et al. (2020)
 
 ### Artificial & biological neurons
 There is increasing evidence that biological neurons and their dendrites are much more powerful computing machines than 
-the classic "point neurons" or "perceptrons" ([Rosenblatt, 1958](https://psycnet.apa.org/record/1959-09865-001)) of 
-artificial neural networks. Much of the work in this area comes from [Poirazi Lab](https://dendrites.gr).
+the classic "point neurons" ([McCulloch & Pitts, 1943](https://link.springer.com/article/10.1007%252FBF02478259)) or 
+"perceptrons" ([Rosenblatt, 1958](https://psycnet.apa.org/record/1959-09865-001)) of artificial neural networks. Much 
+of the work in this area comes from [Poirazi Lab](https://dendrites.gr).
 
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
