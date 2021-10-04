@@ -242,6 +242,9 @@ also suggests that we don't have to give up trying to understand neural computat
 silico neurophysiology" techniques such as feature visualisation and mathematical analysis. Important limitations of 
 CNNs and attempts to make them more biologically faithful are also outlined.
 
+[Going in circles is the way forward: the role of recurrence in visual inference](https://www.sciencedirect.com/science/article/pii/S0959438820301768)
+by van Bergen & Kriegeskorte (2020)
+
 [Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
 by Zhuang et al. (2021)
 
