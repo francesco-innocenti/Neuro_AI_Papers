@@ -3,7 +3,7 @@ This is a repository for mostly research papers at the intersection between comp
 learning, a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised in the following 
 sections:
 
-* [Motivation](#Motivation)
+* [Surveys](#Surveys)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
   * [Vision](#Vision)
@@ -31,7 +31,7 @@ by Ullman (2019). In brief, the brain is the only existing proof of intelligence
 we'll make faster progress on general, human-level AI if we try to reverse-engineer it.
 
 
-## Motivation
+## Surveys
 
 [Neuroscience-Inspired Artificial Intelligence](http://www.sciencedirect.com/science/article/pii/S0896627317305093)
 by Hassabis et al. (2017)
@@ -54,6 +54,12 @@ by Kriegeskorte & Douglas (2018)
 This is a great review bringing together cognitive science, computational neuroscience and artificial intelligence under 
 the name of "cognitive computational neuroscience". They emphasise the need to bridge top-down theory and bottom-up 
 experiments, and provide a useful overview of the wide variety of models used across these disciplines.
+
+[Natural and Artificial Intelligence: A brief introduction to the interplay between AI and neuroscience research](https://www.sciencedirect.com/science/article/pii/S0893608021003683)
+by Macpherson et al. (2021)
+
+A review of recent interactions between neuroscience and AI focusing on models of working memory, the visual system, 
+machine learning analysis of big neuroscience data, and computational psychiatry.
 
 [The roles of supervised machine learning in systems neuroscience](https://www.sciencedirect.com/science/article/pii/S0301008218300856)
 by Glaser et al. (2019)
