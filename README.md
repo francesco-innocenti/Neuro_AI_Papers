@@ -227,12 +227,6 @@ As clear from the above reviews and perspectives, most research to date on deep 
 on vision, both because the visual system has historically been the most studied and because it was models in computer
 vision that led to the renaissance of neural networks.
 
-[Capturing the objects of vision with neural networks](https://www.nature.com/articles/s41562-021-01194-6)
-by Peters & Kriegeskorte (2021)
-
-A review of the cognitive science and neural network models of visual object representations, focusing on constraints 
-and tasks to improve these models.
-
 [Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future](https://direct.mit.edu/jocn/article/doi/10.1162/jocn_a_01544/97402/Convolutional-Neural-Networks-as-a-Model-of-the)
 by Lindsay (2020)
 
@@ -244,6 +238,19 @@ CNNs and attempts to make them more biologically faithful are also outlined.
 
 [Going in circles is the way forward: the role of recurrence in visual inference](https://www.sciencedirect.com/science/article/pii/S0959438820301768)
 by van Bergen & Kriegeskorte (2020)
+
+A great perspective that makes the case for recurrence in vision, arguing that while any recurrent neural network (RNN) 
+can be "unrolled" in time to give a feedforward neural network (FNN), the latter are actually a special case of the 
+former as some RNNs cannot be unrolled *realistically* (i.e., under real-world space, time and energy constraints).
+Recurrence, it is also argued, (i) affords greater and more flexible computational depth, (ii) saves hardware, (iii) 
+integrates high-level information, (iv) exploits temporal structure in sequential data, and (v) allows iterative 
+inference.
+
+[Capturing the objects of vision with neural networks](https://www.nature.com/articles/s41562-021-01194-6)
+by Peters & Kriegeskorte (2021)
+
+A review of the cognitive science and neural network models of visual object representations, focusing on constraints 
+and tasks to improve these models.
 
 [Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
 by Zhuang et al. (2021)
