@@ -253,6 +253,9 @@ as SimCLR to perform as well as supervised networks in both transfer learning an
 first-person child videos. These models show similar hierarchical correspondence to the ventral visual cortex (early 
 layers better predict lower regions such as V1 and deeper layers better predict higher regions such as IT).
 
+[Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](https://arxiv.org/abs/1604.03640)
+by Liao & Poggio (2020)
+
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
 
