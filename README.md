@@ -162,6 +162,9 @@ conclude: "*Instead of asking how the brain works we should, arguably, ask how i
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
+[On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
+by Guest & Martin (2021)
+
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
 
