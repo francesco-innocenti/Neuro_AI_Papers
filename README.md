@@ -6,6 +6,7 @@ sections:
 * [Surveys](#Surveys)
 * [Deep learning](#Deep-learning)
   * [Reviews & perspectives](#Reviews-&-perspectives)
+  * [Philosophical takes](#Philosophical-takes)
   * [Vision](#Vision)
   * [Audition](#Audition)
   * [Somatosensation](#Somatosensation)
@@ -159,9 +160,6 @@ them or biological networks to be easily compressible or have any compact descri
 a higher-level of understanding, considering a network's architecture, objective function, and learning rule. As they 
 conclude: "*Instead of asking how the brain works we should, arguably, ask how it learns to work.*" (p. 7).
 
-[Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
-by Cichy & Kaiser (2019)
-
 [On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
 by Guest & Martin (2021)
 
@@ -219,11 +217,21 @@ brain based on Dale's law (a neuron can be either excitatory or inhibitory but n
 implausibility of backpropagation, specifically the weight transport problem (i.e., synaptic symmetry in forward and 
 backward connections).
 
+[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
+
+### Philosophical takes
+This section includes papers that take an *explicit* philosophical perspective on deep artificial neural networks as
+brain models.
+
+[On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
+by Guest & Martin (2021)
+
+[Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
+by Cichy & Kaiser (2019)
+
 [Explanatory models in neuroscience: Part 2 -- constraint-based intelligibility](http://arxiv.org/abs/2104.01489)
 
 [Explanatory models in neuroscience: Part 1 -- taking mechanistic abstraction seriously](http://arxiv.org/abs/2104.01490)
-
-[Implications of neural networks for how we think about brain function](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/implications-of-neural-networks-for-how-we-think-about-brain-function/BF0C676BD8290F6F02235C82865A0623)
 
 ### Vision
 As clear from the above reviews and perspectives, most research to date on deep learning models of the brain has focused 
