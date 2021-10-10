@@ -160,9 +160,6 @@ them or biological networks to be easily compressible or have any compact descri
 a higher-level of understanding, considering a network's architecture, objective function, and learning rule. As they 
 conclude: "*Instead of asking how the brain works we should, arguably, ask how it learns to work.*" (p. 7).
 
-[On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
-by Guest & Martin (2021)
-
 [Deep Neural Networks in Computational Neuroscience](https://www.biorxiv.org/content/10.1101/133504v2)
 by Kietzmann, McClure & Kriegeskorte (2018)
 
