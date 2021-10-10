@@ -223,6 +223,11 @@ brain models.
 [On logical inference over brains, behaviour, and artificial neural networks](https://psyarxiv.com/tbmcg/)
 by Guest & Martin (2021)
 
+A thought-provoking paper arguing that much of this literature commits the logical fallacy of affirming the consequent - 
+"if the model predicts neural and behavioural data, then it does what humans do" - by ignoring the principle of multiple 
+realisability (the same function can be performed by different mechanisms). For a similar argument see 
+[Kay (2018)]((https://www.sciencedirect.com/science/article/pii/S1053811917306638)).
+
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
 
