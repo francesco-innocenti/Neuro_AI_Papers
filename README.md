@@ -102,7 +102,8 @@ by Richards et al. (2019)
 
 Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
 should focus on the three key design components of artificial neural networks: architectures, learning rules, and
-objective functions. Neural computations and representations are therefore seen as "emergent" from these properties.
+objective functions. Neural computations and representations are therefore seen as "emergent" mostly from these 
+properties.
 
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
@@ -145,6 +146,13 @@ This Quanta Magazine article surveys some classic deep learning models of sensor
 modalities from vision to olfaction.
 
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
+
+[A neural network walks into a lab: towards using deep nets as models for human behavior](http://arxiv.org/abs/2005.02181)
+by Ma & Peters (2020)
+
+Taking a cognitive science perspective, this paper argues that methods to train and test deep neural network models of 
+cognition and behaviour could be both improved particularly with more complex and realistic tasks including multi-
+task learning.
 
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
 by Storrs & Kriegeskorte (2019)
