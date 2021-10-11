@@ -138,6 +138,12 @@ multi-task training at the computational level, co-training on neural data at th
 network architecture and at the implementation level. This is in line with the "deep learning framework" (Richards et 
 al., 2019).
 
+[Deep Neural Networks Help to Explain Living Brains](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
+by Ananthaswamy (2020)
+
+This Quanta Magazine article surveys some classic deep learning models of sensory function (see below), including 
+modalities from vision to olfaction.
+
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
 [Deep Learning for Cognitive Neuroscience](http://arxiv.org/abs/1903.01458)
@@ -226,7 +232,7 @@ by Guest & Martin (2021)
 A thought-provoking paper arguing that much of this literature commits the logical fallacy of affirming the consequent - 
 "if the model predicts neural and behavioural data, then it does what humans do" - by ignoring the principle of multiple 
 realisability (the same function can be performed by different mechanisms). For a similar argument see 
-[Kay (2018)]((https://www.sciencedirect.com/science/article/pii/S1053811917306638)).
+[Kay (2018)](https://www.sciencedirect.com/science/article/pii/S1053811917306638).
 
 [Deep Neural Networks as Scientific Models](http://www.sciencedirect.com/science/article/pii/S1364661319300348)
 by Cichy & Kaiser (2019)
