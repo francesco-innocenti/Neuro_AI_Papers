@@ -105,6 +105,9 @@ should focus on the three key design components of artificial neural networks: a
 objective functions. Neural computations and representations are therefore seen as "emergent" mostly from these 
 properties.
 
+[How learning unfolds in the brain: toward an optimization view](https://www.sciencedirect.com/science/article/abs/pii/S0896627321006772)
+by Hennig et al. (2021)
+
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
 
