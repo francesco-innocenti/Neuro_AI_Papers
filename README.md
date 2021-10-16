@@ -101,12 +101,18 @@ motivation for solving the classification tricks of the brain.
 by Richards et al. (2019)
 
 Including more than 30 neuroscientists and AI researchers, this perspective argues that systems neuroscience
-should focus on the three key design components of artificial neural networks: architectures, learning rules, and
-objective functions. Neural computations and representations are therefore seen as "emergent" mostly from these 
-properties.
+should adopt a deep learning framework by focusing on the three key design components of artificial neural networks: 
+architectures, learning rules, and objective functions. Neural computations and representations are therefore seen as 
+"emergent" mostly from these properties.
 
 [How learning unfolds in the brain: toward an optimization view](https://www.sciencedirect.com/science/article/abs/pii/S0896627321006772)
 by Hennig et al. (2021)
+
+Drawing particularly from research on brain machine interfaces, this paper argues that if we want to understand learning
+in the brain under an optimisation framework, we should integrate three key features of neural population activity not
+generally exhibited by artificial neural networks: (i) neural variability during learning is relatively inflexible, (ii)
+multiple learning rules can underlie the same task, and (iii) changes in activity can be driven by factors not specific
+to the task.
 
 [If deep learning is the answer, what is the question?](https://www.nature.com/articles/s41583-020-00395-8)
 by Saxe, Nelli & Summerfield (2021)
