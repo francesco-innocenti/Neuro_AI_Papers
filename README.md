@@ -527,6 +527,12 @@ by Botvinick et al. (2020)
 [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
 
 [Reinforcement Learning, Fast and Slow](https://www.sciencedirect.com/science/article/pii/S1364661319300610)
+by Botvinick et al. (2019)
+
+This review pushes back against the objection that deep reinforcement learning is too sample-inefficient or slow to be
+a useful model of animal learning. It is argued that episodic deep RL and meta-RL can enable fast learning, addressing 
+the problems of incremental parameter adjustment and weak inductive bias respectively, which are primarily responsible 
+for sample inefficiency. This work reveals an important interaction between forms of fast and slow learning.
 
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
