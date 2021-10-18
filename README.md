@@ -534,6 +534,9 @@ a useful model of animal learning. It is argued that episodic deep RL and meta-R
 the problems of incremental parameter adjustment and weak inductive bias respectively, which are primarily responsible 
 for sample inefficiency. This work reveals an important interaction between forms of fast and slow learning.
 
+[Reinforcement learning in artificial and biological systems](https://www.nature.com/articles/s42256-019-0025-4)
+by Neftci & Averbeck (2019)
+
 [The successor representation in human reinforcement learning](https://www.nature.com/articles/s41562-017-0180-8)
 
 
