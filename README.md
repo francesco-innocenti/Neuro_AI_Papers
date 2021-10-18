@@ -524,6 +524,9 @@ by Marcus (2018)
 [Deep Reinforcement Learning and Its Neuroscientific Implications](http://www.sciencedirect.com/science/article/pii/S0896627320304682)
 by Botvinick et al. (2020)
 
+This paper reviews how neuroscience can benefit from deep RL (and vice versa), highlighting representation learning, 
+model-based RL, memory, exploration, cognitive control and social cognition as promising research directions.
+
 [A distributional code for value in dopamine-based reinforcement learning](https://www.nature.com/articles/s41586-019-1924-6)
 
 [Reinforcement Learning, Fast and Slow](https://www.sciencedirect.com/science/article/pii/S1364661319300610)
