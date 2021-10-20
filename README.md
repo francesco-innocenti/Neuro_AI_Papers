@@ -521,6 +521,9 @@ by Marcus (2018)
 
 ## Reinforcement learning
 
+[Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments](https://www.sciencedirect.com/science/article/pii/S0896627320308990)
+by Cross et al. (2021)
+
 [Deep Reinforcement Learning and Its Neuroscientific Implications](http://www.sciencedirect.com/science/article/pii/S0896627320304682)
 by Botvinick et al. (2020)
 
