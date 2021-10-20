@@ -524,6 +524,12 @@ by Marcus (2018)
 [Using deep reinforcement learning to reveal how the brain encodes abstract state-space representations in high-dimensional environments](https://www.sciencedirect.com/science/article/pii/S0896627320308990)
 by Cross et al. (2021)
 
+In the spirit of the deep RL framework outlined by [Botvinick et al. (2020)](http://www.sciencedirect.com/science/article/pii/S0896627320304682),
+this paper used a deep Q-network (DQN) to model fMRI activity of participants playing Atari video games, finding that 
+dimensionality-reduced hidden DQN features significantly predict (better and more uniquely than other control models) 
+both human actions and fMRI activity in a network including the dorsal visual pathway, the posterior parietal cortex and 
+premotor areas.
+
 [Deep Reinforcement Learning and Its Neuroscientific Implications](http://www.sciencedirect.com/science/article/pii/S0896627320304682)
 by Botvinick et al. (2020)
 
