@@ -154,6 +154,9 @@ by Ananthaswamy (2020)
 This Quanta Magazine article surveys some classic deep learning models of sensory function (see below), including 
 modalities from vision to olfaction.
 
+[Artificial Neural Networks for Neuroscientists: A Primer](https://www.sciencedirect.com/science/article/pii/S0896627320307054)
+by Yang & Wang (2020)
+
 [Lessons From Deep Neural Networks for Studying the Coding Principles of Biological Neural Networks](https://www.frontiersin.org/articles/10.3389/fnsys.2020.615129/full)
 
 [A neural network walks into a lab: towards using deep nets as models for human behavior](http://arxiv.org/abs/2005.02181)
