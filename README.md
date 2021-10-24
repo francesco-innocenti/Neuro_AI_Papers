@@ -470,6 +470,9 @@ the classic "point neurons" ([McCulloch & Pitts, 1943](https://link.springer.com
 "perceptrons" ([Rosenblatt, 1958](https://psycnet.apa.org/record/1959-09865-001)) of artificial neural networks. Much 
 of the work in this area comes from [Poirazi Lab](https://dendrites.gr).
 
+[Dendritic Computing: Branching Deeper into Machine Learning](https://www.sciencedirect.com/science/article/pii/S0306452221005017)
+by Acharya et al. (2021)
+
 [Single cortical neurons as deep artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
 by Beniaguev, Segev & London (2021)
 
@@ -492,8 +495,7 @@ by Gidon et al. (2020)
 
 This study discovered a new type of dendritic spike in human L2/3 pyramidal neurons. These spikes allow neurons to 
 compute the XOR function, a computation that was famously proved to be impossible by Minsky and Papert (1969) for 
-single-layer artificial networks and later shown possible for multilayer networks. This paper was also picked up by 
-Quanta Magazine:[Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
+single-layer artificial networks and later shown possible for multilayer networks. See also [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
 (Cepelewicz, 2020).
 
 [Pyramidal Neuron as Two-Layer Neural Network](https://www.sciencedirect.com/science/article/pii/S0896627303001491)
