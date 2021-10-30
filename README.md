@@ -304,6 +304,12 @@ layers better predict lower regions such as V1 and deeper layers better predict 
 [Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](https://arxiv.org/abs/1604.03640)
 by Liao & Poggio (2020)
 
+[Learning to see stuff](https://www.sciencedirect.com/science/article/pii/S2352154619300397)
+by Fleming & Storrs (2019)
+
+This perspective emphasises the importance of unsupervised learning in vision, drawing on recent architectures such as
+autoencoders, PredNet and GenerativeQueryNets.
+
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
 
