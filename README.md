@@ -293,6 +293,13 @@ by Peters & Kriegeskorte (2021)
 A review of the cognitive science and neural network models of visual object representations, focusing on constraints 
 and tasks to improve these models.
 
+[Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
+by Serre (2019)
+
+A review of the history of CNNs, their success in predicting brain data, and some of their key failures in 
+characterising human behaviour, as well as their more fundamental limitations including adversarial attacks and limited 
+generalisation.
+
 [Unsupervised neural network models of the ventral visual stream](https://www.pnas.org/content/118/3/e2014196118)
 by Zhuang et al. (2021)
 
@@ -314,8 +321,6 @@ autoencoders, PredNet and GenerativeQueryNets.
 by Lindsey et al. (2019)
 
 [Visual Cortex and Deep Networks: Learning Invariant Representations](https://mitpress.mit.edu/books/visual-cortex-and-deep-networks)
-
-[Deep Learning: The Good, the Bad, and the Ugly](https://www.annualreviews.org/doi/10.1146/annurev-vision-091718-014951)
 
 [Deep Neural Networks Rival the Representation of Primate IT Cortex for Core Visual Object Recognition](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003963)
 
