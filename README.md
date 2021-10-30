@@ -315,7 +315,7 @@ by Liao & Poggio (2020)
 by Fleming & Storrs (2019)
 
 This perspective emphasises the importance of unsupervised learning in vision, drawing on recent architectures such as
-autoencoders, PredNet and GenerativeQueryNets.
+autoencoders, PredNet and GenerativeQueryNets. For a more recent argument by the same authors see [Storrs & Fleming](https://journals.sagepub.com/doi/10.1177/0963721421990334).
 
 [A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs](http://arxiv.org/abs/1901.00945)
 by Lindsey et al. (2019)
