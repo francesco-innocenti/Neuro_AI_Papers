@@ -677,3 +677,5 @@ unsupervised Hebbian-like rule sequences of patterns continuously and robustly.
 * [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning-second-edition)
   by Sutton & Barto (2018)
   
+## Acknowledgements
+This collection was inspired by Dr Millidge's [repository of papers on the free energy principle](https://github.com/BerenMillidge/FEP_Active_Inference_Papers).
